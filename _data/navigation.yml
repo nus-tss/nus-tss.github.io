@@ -1,0 +1,29 @@
+  - title: "Home"
+    url: /
+
+  - title: "News"
+    url: /news/
+
+  - title: "Research Topics"
+    url: /research/
+    sublinks:
+      - title: "Automated Program Repair"
+        url: /apr
+      - title: "Fuzz Testing"
+        url: /fuzzing
+        sublinks:
+        - title: Overview
+          url: /fuzzing
+        - title: Publications
+          url: /fuzzing/publications
+        - title: People
+          url: /fuzzing/people
+        - title: Summer School
+          url: /fuzzing/summerschool
+        - title: Vacancies
+          url: /fuzzing/vacancies
+        - title: Contact
+          url: /fuzzing/contact
+
+  - title: "Team"
+    url: /team/
