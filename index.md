@@ -9,6 +9,7 @@ More information will be added soon.
 ## News
 
 
+* July, 2023: <a href="fuzzing/news/#july-2023">News research project funded!</a>
 * June, 2023: <a href="news/#june-2023">New webpage launched!</a>
 
 

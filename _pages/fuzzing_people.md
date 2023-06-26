@@ -9,6 +9,7 @@ permalink: /fuzzing/people/index.html
 <table style="border: none">
   <tr>
     <td style="border: none"><a href="/fuzzing"><b>Overview</b></a></td>
+    <td style="border: none"><a href="/fuzzing/news"><b>News</b></a></td>
     <td style="border: none"><a href="/fuzzing/publications"><b>Publications</b></a></td>
     <td style="border: none"><a href="/fuzzing/people"><u><b>People</b></u></a></td>
     <td style="border: none"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
@@ -23,7 +24,7 @@ permalink: /fuzzing/people/index.html
   <li data-tab-target="#pi" class="active tab"><h4><b>Principal Investigators</b></h4></li>
   <li data-tab-target="#collab" class="tab"><h4><b>Collaborators</b></h4></li>
   <li data-tab-target="#ss" class="tab"><h4><b>Staff and Students</b></h4></li>
-  <li data-tab-target="#affil" class="tab"><h4><b>Additional Affiliates</b></h4></li>
+  <li data-tab-target="#affil" class="tab"><h4><b>Alumni / Additional Affiliates</b></h4></li>
 </ul>
 
 
