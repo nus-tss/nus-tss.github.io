@@ -24,7 +24,7 @@ permalink: /fuzzing/people/index.html
   <li data-tab-target="#pi" class="active tab"><h4><b>Principal Investigators</b></h4></li>
   <li data-tab-target="#collab" class="tab"><h4><b>Collaborators</b></h4></li>
   <li data-tab-target="#ss" class="tab"><h4><b>Staff and Students</b></h4></li>
-  <li data-tab-target="#affil" class="tab"><h4><b>Alumni / Additional Affiliates</b></h4></li>
+  <!--<li data-tab-target="#affil" class="tab"><h4><b>Alumni / Additional Affiliates</b></h4></li>-->
 </ul>
 
 
@@ -37,7 +37,7 @@ permalink: /fuzzing/people/index.html
     <img class="profile-img" src="{{ 'images/people/abhik.jpg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="https://abhikrc.com/">Abhik Roychoudhury</a>, Director & PI</div>
+    <div class="name"><a href="https://abhikrc.com/">Abhik Roychoudhury</a>, PI</div>
     <div class="title">Provost’s Chair Professor, NUS</div>
     <div class="bio">
       <p>Abhik Roychoudhury is a Provost's Chair Professor of Computer Science at the National University of Singapore, where he has been since 2001 after receiving his Ph.D. in Computer Science from the State University of New York at Stony Brook in 2000. He is the Director of the National Satellite of Excellence in Trustworthy Software Systems at Singapore (2019-23). He has previously led the <a href="https://www.comp.nus.edu.sg/~tsunami/">TSUNAMi research center</a> (2015-20), a large five-year long targeted research effort funded by National Research Foundation in the domain of trust-worthy software. He has also helped set up the Singapore Cyber-security Consortium (2016-22), which is a consortium of 25 companies in the cyber-security space engaging with academia for research and collaboration. Abhik's research focuses on software testing and analysis, software security and trust-worthy software construction. His research on automatically repairing programs at a large scale contributes to the vision of self-healing software. His research team is known for contributions to program repair, and fuzz testing.</p>
@@ -52,7 +52,7 @@ permalink: /fuzzing/people/index.html
     <img class="profile-img" src="{{ 'images/people/liangzk.jpg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="https://www.comp.nus.edu.sg/cs/people/liangzk/">Zhenkai Liang</a>, Deputy Director & Co-PI</div>
+    <div class="name"><a href="https://www.comp.nus.edu.sg/cs/people/liangzk/">Zhenkai Liang</a>, Co-PI</div>
     <div class="title">Associate Professor, NUS</div>
     <div class="bio">
       <p>Dr. LIANG Zhenkai is an Associate Professor in the Department of Computer Science at National University of Singapore. He received his Ph.D. degree in Computer Science from Stony Brook University in 2006, and B.S. degrees in Computer Science and Economics from Peking University in 1999. His research area is in system and software security, and security in emerging platforms, such as Web, mobile, and Internet-of-things (IoT). He has been publishing high-impact papers in top security and software engineering conferences, and has won several best paper awards, namely, the Outstanding Paper Award at the Annual Computer Security Applications Conference (ACSAC) in 2003, the Best Paper Award at the USENIX Security Symposium in 2007, the ACM SIGSOFT Distinguished Paper at the ESEC and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC-FSE) in 2009, and the Best Paper Award at the Web 2.0 Security & Privacy (W2SP) Workshop in 2014. He has been actively served as technical committee members and editorial board members of top security conferences and journals, including ACM Conference on Computer and Communications Security (CCS), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS), and IEEE Transactions on Dependable and Secure Computing (TSDC).</p>
@@ -67,7 +67,7 @@ permalink: /fuzzing/people/index.html
     <img class="profile-img" src="{{ 'images/people/umang.png' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="https://www.comp.nus.edu.sg/~umathur/">Umang Mathur</a>, Deputy Director & Co-PI</div>
+    <div class="name"><a href="https://www.comp.nus.edu.sg/~umathur/">Umang Mathur</a>, Co-PI</div>
     <div class="title">Assistant Professor, NUS</div>
     <div class="bio">
       <p>Dr. Umang Mathur is an Assistant Professor in the School of Computing at the National University of Singapore, and part of PLSE@NUS. He obtained his PhD from the University of Illinois at Urbana-Champaign, where he was advised by the Prof. Mahesh Viswanathan. Prior to joining NUS, Umang was a Research Scientist at Facebook Inc. and a Research Fellow at the Simons Institute for the Theory of Computing. His PhD was supported, in part, by a Google PhD Fellowship.</p>
@@ -82,7 +82,7 @@ permalink: /fuzzing/people/index.html
     <img class="profile-img" src="{{ 'images/people/manuel.jpg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="https://www.manuelrigger.at/">Manuel Rigger</a>, Deputy Director & Co-PI</div>
+    <div class="name"><a href="https://www.manuelrigger.at/">Manuel Rigger</a>, Co-PI</div>
     <div class="title">Assistant Professor, NUS</div>
     <div class="bio">
       <p>Manuel Rigger is an Assistant Professor leading the TEST Lab, which is part of the PL/SE group at the School of Computing, National University of Singapore. He is working on software reliability, data-centric systems, and programming language implementation. In his recent work, he has been focusing on automatically testing Database Management Systems, part of which he found over 450 bugs in widely-used systems such as SQLite, MySQL, PostgreSQL, MariaDB, and CockroachDB. Prior to joining NUS, Manuel was a postdoc at the Advanced Software Technologies Lab at ETH Zurich, mentored by Zhendong Su. He completed his PhD at Johannes Kepler University Linz, mentored by Hanspeter Mössenböck, where he worked on the safe and efficient execution of unsafe languages (project Sulong). Part of his work was integrated into Oracle’s GraalVM to support the execution of LLVM IR on this platform.</p>
@@ -172,6 +172,105 @@ permalink: /fuzzing/people/index.html
 </div>
 
 </div>
+
+
+
+
+
+
+<div id="ss" data-tab-content>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="https://mengrj.github.io">Ruijie Meng</a></div>
+    <div class="title">PhD Student, NUS</div>
+    <div class="bio">
+      <p>
+      </p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/dylan.jpeg' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="https://dylanjwolff.com">Dylan J. Wolff</a></div>
+    <div class="title">PhD Student, NUS</div>
+    <div class="bio">
+      <p>
+      Dylan is pursuing his PhD at the National University of Singapore, advised by <a href="https://abhikrc.com/">Abhik Roychoudhury</a>. He is interested in leveraging static and dynamic program analysis (as well as verification) techniques to find and prevent bugs in software. Prior to returning to academia, he worked at <a href="https://www.mathworks.com">Mathworks</a> on a variety of projects, mostly involving testing and deployment infrastructure for web applications.
+      </p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="">Ho Han Kit Ivan</a></div>
+    <div class="title">Research Assistant and PhD Student, NUS</div>
+    <div class="bio">
+      <p>
+      </p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="">Zhao Huan</a></div>
+    <div class="title">Research Assistant and PhD Student, NUS</div>
+    <div class="bio">
+      <p>
+      </p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="">Zheng</a></div>
+    <div class="title">PhD Student, NUS</div>
+    <div class="bio">
+      <p>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+
+
+
+
+<!--
+<div id="affil" data-tab-content>
+
+</div>
+-->
 
 </div>
 

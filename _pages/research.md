@@ -8,9 +8,6 @@ In our research group focus on **software testing and analysis**, **software sec
 
 ## Current Research Projects
 
-Currently, our research is supported by three major projects:
-
-
 <table style="border: none">
   
   <tr>

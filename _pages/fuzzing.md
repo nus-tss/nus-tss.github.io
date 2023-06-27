@@ -20,9 +20,18 @@ permalink: /fuzzing/index.html
 
 <img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="200" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
 
-Software almost always has vulnerabilities. Many of these cause serious problems such as software crash and leaking sensitive user information. To fix bugs, software engineers have been fighting an endless battle with bugs. The cost of this battle is enormous—$312 billion per year globally as of 2012 according to [Cambridge University research](http://insight.jbs.cam.ac.uk/2013/financial-content-cambridge-university-study-states-software-bugs-cost-economy-312-billion-per-year/) (in comparison, the GDP of Singapore is $308 billion as of 2014). This high cost is due to that software developers spend about 50% of their time debugging. We are conducting research on automatically finding vulnerabilities in program binaries by combining black-box or grey-box fuzzing with symbolic execution approaches. In black-box or grey-box fuzzing, the logic of the program is not analyzed, whereas symbolic execution approaches proceed by a semantic analysis of the program behavior. A lot of our research can be seen as a targeted search where we are trying to reach target locations, either to reproduce a crash or to uncover more behavior so that vulnerabilities can be uncovered.
+Software almost always has vulnerabilities. Many of these cause serious problems such as software crash and leaking sensitive user information. To fix bugs, software engineers have been fighting an endless battle with bugs. To date, the most known mechanism for testing against security vulnerabilities is grey-box fuzz testing (fuzzing) — a proven and practical bug detection methodology. At its core, fuzz testing uses a biased random search to uncover inputs that are likely to cause the program to misbehave (e.g., crash), thereby allowing bugs to be discovered and fixed before potential exploitation.  In recent years, most software vulnerabilities are found using fuzz testing. Our research program seeks to build next generation fuzz testing technologies, specifically in the light of supply-chain attacks witnessed recently.
 
-One of the key innovations in our approach is that the analysis for finding vulnerabilities works directly on the program binaries - no source code is needed. Another key innovation is the development of scalable search strategies to guide the symbolic analysis for common file-format processing programs such as PDF, PNG, WAV. We are also working on improving grey-box fuzzing technology in its weak-point, namely behavioral coverage. Grey-box fuzzing technology generates many inputs with the goal to crash the program, but may end up covering few paths in the program since no semantic analysis is involved. In our latest work, we have improved the search heuristics inside fuzzers to drastically improve the coverage without resorting to costly symbolic analysis. Thus, our approach for finding vulnerabilities is two pronged - improve the scalability of the symbolic execution or semantic approaches, and improve the behavioral coverage of fuzzing or syntactic approaches.
+From a technical standpoint, this project will develop new techniques in testing and analysis, for detecting security vulnerabilities, specifically for concurrent, stateful and reactive software systems. Traditionally these systems have been checked via verification methods which store the state space in some form. Since common usage of the verification methods is in bug finding, we propose to develop smart fuzzing methods to validate stateful systems. Technically this will involve various innovations in (a) identifying state variables in programs (b) inferring stateful behavior and state machines even when state variables may not be accurately identified, (c) being able to fuzz concurrent systems to capture the space of interleavings and (d) taking advantage of fuzzing distributed data processing systems by opportunistic mutations of data formats. Being able to validate concurrent / distributed / stateful systems, allows us to deeply test the impact of a vendor provided component on (stateful) software.  The proposed research is of importance in the context of recent well-known supply chain attacks, such as Solarwinds. Fuzz testing and binary analysis techniques can be employed to prevent such attacks (and others) - to mitigate their impact. 
+
+<a href="https://www.computer.org/csdl/magazine/so/2021/03/09166552/1mgaKsMFDYA"><img src="{{ 'images/fuzzing_article.png' | relative_url }}" width="250" alt="IEEE Software Article" style="float:right; margin: 0px 0px 0px 15px;" /></a>
+
+The project also looks at sound statistical basis for comparing evaluation of fuzzer tools, so that practitioners can choose fuzzers which are useful for their specific application set-up to find vulnerabilities effectively. This can also impact the way fuzzer evaluations are currently conducted in well-known computational infra-structures including Google’s Fuzzbench. Last but not the least, we will seek to build a fuzzer collaboration platform for combining fuzzers with other validation tools such as model checkers and symbolic execution engines, to make the task of checking stateful software systems more manageable and tractable in the future.  This can be investigated concretely potentially under a well-known tool competition such as SV-COMP, to further enhance the impact of the technologies to be developed.
+
+Check our [IEEE Software Article](https://www.computer.org/csdl/magazine/so/2021/03/09166552/1mgaKsMFDYA) reflecting on fuzzing as a field.
+We summarize the open challenges and opportunities for fuzzing and symbolic execution as they emerged in discussions among researchers and practitioners in a Shonan Meeting and that were validated in a subsequent survey.
+
+
 
 ---
 <br>
@@ -37,25 +46,6 @@ Our research in **fuzz testing** is funded with a grant from **National Research
 ---
 <br>
 
-<!--## Viewpoint-->
-
-<img src="{{ 'images/fuzzing_article.png' | relative_url }}" width="250" alt="Fuzzing" style="float:left; margin: 0px 30px 15px 0px;" />
-
-Check our [IEEE Software Article](https://www.computer.org/csdl/magazine/so/2021/03/09166552/1mgaKsMFDYA) reflecting on fuzzing as a field.
-We summarize the open challenges and opportunities for fuzzing and symbolic execution as they emerged in discussions among researchers and practitioners in a Shonan Meeting and that were validated in a subsequent survey.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
-<br>
 
 ## Recent News
 
