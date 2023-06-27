@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/index.html
 ---
 
-In our research group focus on **software testing and analysis**, **software security**, and **trustworthy systems**. More specifically, we contribute to the areas of [Automated Program Repair](https://nus-apr.github.io) and [Fuzzing](/fuzzing/) and Symbolic Execution.
+In our research group, we focus on **software testing and analysis**, **software security**, and **trustworthy systems**. More specifically, we contribute to the areas of [Automated Program Repair](https://nus-apr.github.io) and [Fuzzing](/fuzzing/) and Symbolic Execution.
 
 ## Current Research Projects
 

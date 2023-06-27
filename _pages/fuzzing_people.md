@@ -128,21 +128,6 @@ permalink: /fuzzing/people/index.html
 
 <div class="person">
   <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/oliver_chang.jpeg' | relative_url }}"/>
-  </div>
-  <div class="description">
-    <div class="name"><a href="https://www.linkedin.com/in/oliver-chang-450036a7">Oliver Chang</a></div>
-    <div class="title">Engineering Manager, Google</div>
-    <div class="bio">
-      <p>Oliver Chang is currently a senior engineering manager leading the Australian branch of the Google Open Source Security Team, which focuses on making it easy for people to use and develop open source securely. Some of the projects we focus on in Australia are https://github.com/google/osv.dev, https://github.com/google/oss-fuzz, and https://github.com/ossf/package-analysis. He has deep software engineering experience through building usable, scalable infrastructure and tooling as well as practical security experience through vulnerability research. In the past, he worked on securing the Google Chrome browser through building automation to find vulnerabilities (fuzzing) as well as general vulnerability research (reverse engineering and auditing) including collaborations with Google Project Zero.</p>
-    </div>
-  </div>
-</div>
-
-<hr>
-
-<div class="person">
-  <div class="profile">
     <img class="profile-img" src="{{ 'images/people/mathias_payer.jpg' | relative_url }}"/>
   </div>
   <div class="description">
@@ -150,22 +135,6 @@ permalink: /fuzzing/people/index.html
     <div class="title">Associate Professor, EPFL, Switzerland</div>
     <div class="bio">
       <p>Mathias Payer is a security researcher and associate professor at the EPFL school of computer and communication sciences (IC), leading the HexHive group. His research focuses on protecting applications in the presence of vulnerabilities, with a focus on memory corruption and type violations. He is interested in software security, system security, binary exploitation, effective mitigations, fault isolation/privilege separation, strong sanitization, and software testing (fuzzing) using a combination of binary analysis and compiler-based techniques. All prototype implementations are open-source. Mathias joined EPFL in 2018 and received tenure in 2021. Before EPFL, he spent 4 years as assistant professor at Purdue University and 2 years as PostDoc in Dawn Song's BitBlaze group at UC Berkeley. He graduated from ETH Zurich with a Dr. sc. ETH in 2012. In 2018, he co-founded the EPFL polygl0ts CTF team and in 2014, he founded the Purdue b01lers CTF team.
-      </p>
-    </div>
-  </div>
-</div>
-
-<hr>
-
-<div class="person">
-  <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/' | relative_url }}"/>
-  </div>
-  <div class="description">
-    <div class="name"><a href="https://www.linkedin.com/in/dr-jonathan-pan-b6590491">Jonathan Pan</a></div>
-    <div class="title">Chief, Disruptive Technologies Office, HTX</div>
-    <div class="bio">
-      <p>
       </p>
     </div>
   </div>
