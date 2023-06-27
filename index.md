@@ -21,7 +21,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 ## News
 
 
-* July, 2023: <a href="fuzzing/news/#july-2023">News research project funded!</a>
+* July, 2023: <a href="fuzzing/news/#july-2023">New research project funded!</a>
 * June, 2023: <a href="news/#june-2023">New webpage launched!</a>
 
 
