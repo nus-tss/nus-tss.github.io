@@ -200,13 +200,14 @@ permalink: /fuzzing/people/index.html
 
 <div class="person">
   <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
+    <img class="profile-img" src="{{ 'images/people/zhao-huan.jpeg' | relative_url }}"/>
   </div>
   <div class="description">
     <div class="name"><a href="">Zhao Huan</a></div>
     <div class="title">Research Assistant and PhD Student, NUS</div>
     <div class="bio">
       <p>
+      Zhao Huan is a first-year PhD Student and Research Assistant in the <a href="https://www.comp.nus.edu.sg/cs/">Department of Computer Science</a> at the <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, advised by <a href="https://abhikrc.com/">Prof. Abhik Roychoudhury</a>.
       </p>
     </div>
   </div>
