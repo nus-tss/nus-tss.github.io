@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+<h1>Fuzz Testing</h1>
+<br>
+
+<nav class="nav nav-pills flex-column flex-sm-row">
+  {% assign curr_url = page.permalink | remove: '/index.html' %}
+  {% for link in site.data.fuzzing-nav %}
+    <a class="flex-sm-fill text-sm-center nav-link {% if curr_url == link.url %}active{% endif %}" href="{{ link.url }}">
+      <b>{{ link.title }}</b>
+    </a>
+  {% endfor %}
+</nav>
+
+<br>
+
+{{ content }}

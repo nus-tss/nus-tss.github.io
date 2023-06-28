@@ -1,24 +1,8 @@
 ---
-layout: page
+layout: fuzzing
 title: "Fuzz Testing"
 permalink: /fuzzing/index.html
 ---
-
-## Fuzz Testing
-
-<table class="table table-borderless table-responsive-sm table-equal-width">
-  <tbody>
-  <tr>
-    <td class="text-center"><a href="/fuzzing"><u><b>Overview</b></u></a></td>
-    <td class="text-center"><a href="/fuzzing/news"><b>News</b></a></td>
-    <td class="text-center"><a href="/fuzzing/publications"><b>Publications</b></a></td>
-    <td class="text-center"><a href="/fuzzing/people"><b>People</b></a></td>
-    <td class="text-center"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
-    <td class="text-center"><a href="/fuzzing/vacancies"><b>Vacancies</b></a></td>
-    <td class="text-center"><a href="/fuzzing/contact"><b>Contact</b></a></td>
-  </tr>
-  </tbody>
-</table>
 
 <img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="200" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
 

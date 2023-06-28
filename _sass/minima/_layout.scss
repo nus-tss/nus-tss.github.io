@@ -8,6 +8,11 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  // center title and nav
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .site-title {
@@ -18,10 +23,7 @@
   font-weight: 300;
   line-height: $base-line-height;
   letter-spacing: -1px;
-  margin-top: 5px;
-  float: left;
-  display: flex;
-
+  margin-right: auto; // to float left in flex
   &,
   &:visited {
     color: $grey-color-dark;
@@ -32,8 +34,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 5px;
-  float: right;
+  margin-left: auto; // to float right in flex
   line-height: $base-line-height;
   opacity: 1;
   z-index: 2;
@@ -59,8 +60,8 @@
   }
 
   @include media-query($on-palm) {
+    display: grid;
     position: absolute;
-    top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
@@ -69,7 +70,7 @@
 
     label[for="nav-trigger"] {
       display: block;
-      float: right;
+      margin-left: auto; // float right
       width: 36px;
       height: 36px;
       z-index: 2;
@@ -97,7 +98,6 @@
 
     input:checked ~ .trigger {
       display: block;
-      padding-bottom: 5px;
     }
 
     .page-link {
@@ -109,7 +109,6 @@
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
     }
   }
 
@@ -126,34 +125,47 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  
+  @include media-query($on-palm) {
+    display: grid; // to make the dropdown vertical in mobile mode
+  }
 }
 
 .nested-dropdowns li {
   cursor: pointer;
-
   /* Spacing */
-  padding: 4px 10px;
+  padding: 2px 2px;
 
   /* Used to position the sub nested-dropdowns */
   position: relative;
 
   z-index: 1;
   // background-color: #f9f9f9;
-
   white-space: nowrap;
+
+  @include media-query($on-palm) {
+    display: block;
+    padding: 0;
+
+    &:not(:last-child) {
+      margin-right: 0;
+    }
+  }
 }
+
 
 /* The sub nested-dropdowns */
 .nested-dropdowns ul {
   /* Border */
   border: 1px solid #d1d5db;
+  border-radius: 5px;
 
   /* Hidden by default */
   display: none;
 
   /* Absolute position */
-  left: 0;
   position: absolute;
+  left: -80px; // so that the dropdown does not go beyond navbar border
   top: 100%;
 
   /* Reset styles */
@@ -162,13 +174,19 @@
   padding: 0;
 
   background-color: #ffffff;
+
+  // in mobile mode, put the drop down at bottom
+  @include media-query($on-palm) {
+    top: 100%;
+    left: -70px;
+  }
 }
 
 /* The second level sub nested-dropdowns */
 .nested-dropdowns ul ul {
-  left: 100%;
+  left: 0;
+  top: 100%;
   position: absolute;
-  top: 0;
 }
 
 // /* Change background color of list item when being hovered */
@@ -265,6 +283,10 @@
 
 .page-heading {
   @include relative-font-size(2);
+}
+
+.post {
+  width: 100%;
 }
 
 .post-list-heading {

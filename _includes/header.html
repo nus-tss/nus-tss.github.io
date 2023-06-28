@@ -1,6 +1,5 @@
-<header class="site-header" role="banner">
-
-  <div class="wrapper clearfix">
+<header class="clearfix site-header" role="banner">
+  <div class="wrapper container-fluid">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
@@ -32,7 +31,7 @@
                     <li>
                       {% if subitem.sublinks %}
                         <div class="nested-dropdowns__item">
-                            <a class="page-link" href="{{ subitem.url | relative_url }}">{{ subitem.title }} <i class="fa fa-caret-right"></i></a>
+                            <a class="page-link" href="{{ subitem.url | relative_url }}">{{ subitem.title }} <i class="fa fa-caret-down"></i></a>
                         </div>
                         <ul class="nested-dropdowns">
                           {% for subsubitem in subitem.sublinks %}

@@ -6,21 +6,18 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 
 <br>
 
-<table class="table table-borderless table-responsive">
-  <tbody>
-  <tr>
-    <td class="align-middle">
-    	<img src="/images/team/lunch_feb2023.jpg" alt="Group Photo at Lunch in February 2023"/>
+<div class="row">
+  <div class="col-sm">
+    <img src="/images/team/lunch_feb2023.jpg" alt="Group Photo at Lunch in February 2023"/>
     	Lunch in February 2023.
-    </td>
-    <td class="align-middle">
-    	<img src="/images/team/group_may2022.jpg" alt="Group Photo in May 2022"/>
+  </div>
+  <div class="col-sm">
+    <img src="/images/team/group_may2022.jpg" alt="Group Photo in May 2022"/>
     	A recent group photograph taken in 2022 May.
-    </td> 
-  </tr>
-  </tbody>
-</table>
+  </div>
+</div>
 
+<br>
 
 ## News
 

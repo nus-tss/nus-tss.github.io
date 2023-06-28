@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fuzzing
 title: "Publications"
 permalink: /fuzzing/publications/index.html
 
@@ -14,22 +14,6 @@ website: <i class="fa fa-window-restore"></i>
 poster: <i class="fa fa-bar-chart"></i>
 news: <i class="fa fa-newspaper-o"></i>
 ---
-
-## Fuzz Testing
-
-<table class="table table-borderless table-responsive-sm table-equal-width">
-  <tbody>
-  <tr>
-    <td class="text-center"><a href="/fuzzing"><u><b>Overview</b></u></a></td>
-    <td class="text-center"><a href="/fuzzing/news"><b>News</b></a></td>
-    <td class="text-center"><a href="/fuzzing/publications"><b>Publications</b></a></td>
-    <td class="text-center"><a href="/fuzzing/people"><b>People</b></a></td>
-    <td class="text-center"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
-    <td class="text-center"><a href="/fuzzing/vacancies"><b>Vacancies</b></a></td>
-    <td class="text-center"><a href="/fuzzing/contact"><b>Contact</b></a></td>
-  </tr>
-  </tbody>
-</table>
 
 ### Key Works
 
