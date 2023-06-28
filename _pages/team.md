@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Team"
 permalink: /team/index.html
 ---
@@ -18,7 +18,7 @@ permalink: /team/index.html
 <div class="row row-buffer">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix column-buffer">
   <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
   <h4>
     {% if member.website %}
@@ -59,7 +59,7 @@ permalink: /team/index.html
 <div class="row row-buffer">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix column-buffer">
   <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
   <h4>
     {% if member.website %}
@@ -109,7 +109,7 @@ permalink: /team/index.html
 <div class="row row-buffer">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix column-buffer">
   <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
   <h4>
     {% if member.website %}
@@ -159,7 +159,7 @@ permalink: /team/index.html
 <div class="row row-buffer">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix column-buffer">
   <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
   <h4>
     {% if member.website %}
@@ -224,7 +224,7 @@ permalink: /team/index.html
 <div class="row row-buffer">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix column-buffer">
   <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
   <h4>
     {% if member.website %}

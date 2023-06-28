@@ -18,4 +18,16 @@
 .row-buffer { 
   margin-top: 30px;
   margin-bottom: 70px; 
+
+  @include media-query($on-palm) {
+    margin: 0 5px;
+  }
+}
+
+/* On mobile, one column is on one line. 
+  We then need some spacing between two columns. */
+.column-buffer {
+  @include media-query($on-palm) {
+    margin: 5px 0;
+  }
 }
