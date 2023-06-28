@@ -1,0 +1,116 @@
+- name: Xiang Gao
+  photo: gaoxiang.jpg
+  graduated: 2021
+  thesis-title: Over-fitting in Program Repair and Synthesis
+  thesis-link: https://abhikrc.com/Students/GaoXiang.pdf
+  next: Associate Professor, Beihang University (from 2022)
+  website: https://gaoxiang9430.github.io/
+
+- name: Sergey Mechtaev
+  photo: sergey.jpg
+  graduated: 2018
+  thesis-title: Semantic Program Repair
+  thesis-link: https://abhikrc.com/Students/Sergey.pdf
+  next: University College London (UCL) as Lecturer (Assistant Professor)
+  award: <b>ACM SIGSOFT Outstanding Dissertation Award 2018, Best PhD thesis 2018</b>
+  website: https://mechtaev.com/
+
+- name: Shin Hwei Tan
+  photo: shinhwei.jpg
+  graduated: 2018
+  thesis-title: Design of repair operators for automated program repair
+  thesis-link: https://abhikrc.com/Students/ShinHwei.pdf
+  next: Associate Professor (Gina Cody Research Chair), Concordia University, Canada
+  website: http://www.shinhwei.com/
+
+- name: Van Thuan Pham
+  photo: thuan.jpg
+  graduated: 2018
+  thesis-title: Enhancing directed search in black-box, grey-box and white-box fuzz testing
+  thesis-link: https://abhikrc.com/Students/Thuan.pdf
+  next: Lecturer (Asst Prof) at University of Melbourne from 2020
+  website: https://thuanpv.github.io/
+
+- name: Abhijeet Banerjee
+  photo: abhijeet.jpg
+  graduated: 2016
+  thesis-title: Static analysis driven testing of performance and energy consumption properties
+  thesis-link: https://abhikrc.com/Students/Abhijeet.pdf
+
+- name: Marcel Böhme
+  photo: marcel.jpg
+  graduated: 2014
+  thesis-title: Automated regression testing and verification of complex code changes
+  thesis-link: https://abhikrc.com/Students/Marcel.pdf
+  next: Faculty Member, Max-Planck Institute for Security and Privacy
+  website: https://mboehme.github.io/
+
+- name: Sudipta Chattopadhyay
+  photo: sudipta.jpg
+  graduated: 2013
+  thesis-title: Time-predictable Execution of Embedded Software on Multi-core Platforms
+  thesis-link: https://abhikrc.com/Students/Sudipta.pdf
+  next: Assistant Professor at Singapore University of Technology and Design (SUTD) since 2017
+  award: Presidential Graduate Fellowship
+  website: https://sudiptac.bitbucket.io/
+
+- name: Dawei Qi
+  photo: dawei.jpg
+  graduated: 2013
+  thesis-title: Semantic Analyses to detect and localize software regression errors
+  thesis-link: https://abhikrc.com/Students/Dawei.pdf
+  next: Moved to WorldQuant Singapore
+  award: Presidential Graduate Fellowship, <b>Best Phd Thesis 2013</b>
+  coadvisor: Zhenkai Liang
+
+- name: Sandeep Kumar
+  photo: sandeep.jpg
+  graduated: Dec 2012
+  thesis-title: Mining Behavioral Specifications of Distributed Systems
+  thesis-link: https://abhikrc.com/Students/Sandeep.pdf
+  next: Moved to AdNovum, Singapore -> Google Mountain View
+  coadvisor: Siau Cheng Khoo
+
+- name: Lei Ju
+  photo: leiju.png
+  graduated: 2010
+  thesis-title: Model-driven timing analysis of embedded software
+  thesis-link: https://abhikrc.com/Students/JuLei.pdf
+  next: Moved to Associate Professor at Shandong University, China
+  award: Faculty Research Achievement Award
+  coadvisor: Samarjit Chakraborty
+  website: https://faculty.sdu.edu.cn/julei/en/index/591206/list/index.htm
+
+- name: Vivy Suhendra
+  photo: vivy.jpg
+  graduated: 2010
+  thesis-title: Memory Optimizations for Time-predictable Embedded Software
+  thesis-link: https://abhikrc.com/Students/VivySuhendra_PhDThesis_2009.pdf
+  next: Moved to A*STAR and then Singapore Cybersecurity Consortium
+  award: Microsoft Research fellowship (2006-07)
+  coadvisor: Tulika Mitra
+  website: https://www.comp.nus.edu.sg/~vivy/index.html
+
+- name: Ankit Goel
+  photo: ankit.jpg
+  graduated: 2010
+  thesis-title: Parameterized Validation of UML-like models for Reactive Embedded Systems
+  thesis-link: https://abhikrc.com/Students/Ankit.pdf
+  award: Dean's Graduate Award 2008
+
+- name: Tao Wang
+  photo: wangtao.jpg
+  graduated: 2008
+  thesis-title: Post-mortem Dynamic Analysis for Software Debugging
+  thesis-link: https://abhikrc.com/Students/WangTao.pdf
+  next: Moved as Vice President at Morgan Stanley
+  award: <b>Best PhD Thesis 2008</b>, Microsoft Research fellowship (2004-05), Presidential Graduate Fellowship
+
+- name: Xianfeng Li
+  photo: xianfeng.jpg
+  graduated: 2006
+  thesis-title: Micro-architectural Modeling for Timing Analysis of Embedded Software
+  thesis-link: https://www.comp.nus.edu.sg/~abhik/Students/Xianfeng.pdf
+  next: Moved to Peking University, currently Associate Professor
+  award: Dean's Graduate Award
+  coadvisor: Tulika Mitra

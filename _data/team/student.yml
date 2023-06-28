@@ -1,0 +1,52 @@
+- name: Zhiyu Fan
+  photo: zhiyu.jpeg
+  joined: August 2019
+  role: PhD student
+  topic: Program repair for Intelligent Tutoring and Programming Education
+  coadvisor: Shin Hwei Tan
+  website: https://zhiyufan.github.io/
+
+- name: Liu Yu
+  photo: liuyu.jpg
+  joined: August 2020
+  role: PhD student
+  topic: Analysis guided Program Repair
+  coadvisor: Sergey Mechtaev
+
+- name: Ruijie Meng
+  photo: ruijie.jpg
+  joined: August 2020
+  role: PhD student
+  topic: Property guided Fuzz Testing
+  coadvisor: Ilya Sergey
+  website: https://mengrj.github.io/
+
+- name: Yuntong Zhang
+  photo: yuntong.jpg
+  joined: August 2021
+  role: PhD student and RA
+  topic: Combination of Fuzzing and Program Repair (tentative topic)
+  website: https://yuntongzhang.github.io/
+
+- name: Dylan Wolff
+  photo: dylan.jpeg
+  joined: August 2021
+  role: PhD student
+  topic: Concurrent system Fuzzing (tentative topic)
+  website: https://dylanjwolff.com/
+
+- name: Haifeng Ruan
+  photo: haifeng.jpg
+  joined: August 2021
+  role: PhD student
+  topic:  Interactive Program Repair (tentative topic)
+
+- name: Martin Mirchev
+  photo: mirchev.jpeg
+  joined: August 2022
+  role: PhD student
+
+- name: Ali El-Husseini
+  photo: ali.png
+  joined: January 2023
+  role: PhD student, CNRS CREATE

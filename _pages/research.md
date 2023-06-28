@@ -8,31 +8,35 @@ In our research group, we focus on **software testing and analysis**, **software
 
 ## Current Research Projects
 
-<table style="border: none">
-  
-  <tr>
-    <td style="border: none">
-    <a href="/fuzzing/"><img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="100" alt="Fuzzing Logo"/></a></td>
-    <td style="border: none"><a href="/fuzzing/">Fuzz Testing</a>, National Research Foundation (NRF) Cybersecurity R&D, 2023-27</td>
-  </tr>
-  
-  <tr>
-    <td style="border: none" align="center">
-    <a href="https://nus-apr.github.io"><img src="{{ 'images/apr_logo_transparent.png' | relative_url }}" width="80" alt="APR Logo"/></a></td>
-    <td style="border: none">
-    <a href="https://nus-apr.github.io">Automated Program Repair</a>, Ministry of Education (MoE) Tier3 program, 2022-27.
+<table class="table table-borderless table-responsive-sm">
+  <tbody>
+  <tr height="90px">
+    <td class="align-middle text-center col-sm-2">
+      <a href="/fuzzing/"><img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="100" alt="Fuzzing Logo"/></a>
+    </td>
+    <td class="align-middle col-sm-10">
+      <a href="/fuzzing/">Fuzz Testing</a>, National Research Foundation (NRF) Cybersecurity R&D, 2023-27
     </td>
   </tr>
   
-  <tr>
-    <td style="border: none" align="center">
-    <a href="https://descartes.cnrsatcreate.cnrs.fr/"><img src="{{ 'images/descartes_logo.png' | relative_url }}" width="100" alt="Descartes Logo"/></a>
+  <tr height="90px">
+    <td class="align-middle text-center col-sm-2">
+      <a href="https://nus-apr.github.io"><img src="{{ 'images/apr_logo_transparent.png' | relative_url }}" width="80" alt="APR Logo"/></a>
     </td>
-    <td style="border: none" >
-    <a href="https://descartes.cnrsatcreate.cnrs.fr/">Descartes: Intelligent Modeling for Decision Making in Critical Urban Systems</a>, 2021-26.
+    <td class="align-middle col-sm-10">
+      <a href="https://nus-apr.github.io">Automated Program Repair</a>, Ministry of Education (MoE) Tier3 program, 2022-27.
     </td>
   </tr>
   
+  <tr height="90px">
+    <td class="align-middle text-center col-sm-2">
+      <a href="https://descartes.cnrsatcreate.cnrs.fr/"><img src="{{ 'images/descartes_logo.png' | relative_url }}" width="100" alt="Descartes Logo"/></a>
+    </td>
+    <td class="align-middle col-sm-10">
+      <a href="https://descartes.cnrsatcreate.cnrs.fr/">Descartes: Intelligent Modeling for Decision Making in Critical Urban Systems</a>, 2021-26.
+    </td>
+  </tr>
+  </tbody>
 </table>
 
 

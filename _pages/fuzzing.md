@@ -6,23 +6,25 @@ permalink: /fuzzing/index.html
 
 ## Fuzz Testing
 
-<table style="border: none">
+<table class="table table-borderless table-responsive-sm table-equal-width">
+  <tbody>
   <tr>
-    <td style="border: none"><a href="/fuzzing"><u><b>Overview</b></u></a></td>
-    <td style="border: none"><a href="/fuzzing/news"><b>News</b></a></td>
-    <td style="border: none"><a href="/fuzzing/publications"><b>Publications</b></a></td>
-    <td style="border: none"><a href="/fuzzing/people"><b>People</b></a></td>
-    <td style="border: none"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
-    <td style="border: none"><a href="/fuzzing/vacancies"><b>Vacancies</b></a></td>
-    <td style="border: none"><a href="/fuzzing/contact"><b>Contact</b></a></td>
+    <td class="text-center"><a href="/fuzzing"><u><b>Overview</b></u></a></td>
+    <td class="text-center"><a href="/fuzzing/news"><b>News</b></a></td>
+    <td class="text-center"><a href="/fuzzing/publications"><b>Publications</b></a></td>
+    <td class="text-center"><a href="/fuzzing/people"><b>People</b></a></td>
+    <td class="text-center"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
+    <td class="text-center"><a href="/fuzzing/vacancies"><b>Vacancies</b></a></td>
+    <td class="text-center"><a href="/fuzzing/contact"><b>Contact</b></a></td>
   </tr>
+  </tbody>
 </table>
 
 <img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="200" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
 
 Software almost always has vulnerabilities. Many of these cause serious problems such as software crash and leaking sensitive user information. To fix bugs, software engineers have been fighting an endless battle with bugs. To date, the most known mechanism for testing against security vulnerabilities is grey-box fuzz testing (fuzzing) — a proven and practical bug detection methodology. At its core, fuzz testing uses a biased random search to uncover inputs that are likely to cause the program to misbehave (e.g., crash), thereby allowing bugs to be discovered and fixed before potential exploitation.  In recent years, most software vulnerabilities are found using fuzz testing. Our research program seeks to build next generation fuzz testing technologies, specifically in the light of supply-chain attacks witnessed recently.
 
-<a href="https://www.computer.org/csdl/magazine/so/2021/03/09166552/1mgaKsMFDYA"><img src="{{ 'images/fuzzing_article.png' | relative_url }}" width="250" alt="IEEE Software Article" style="float:right; margin: 0px 0px 0px 15px;" /></a>
+<a href="https://www.computer.org/csdl/magazine/so/2021/03/09166552/1mgaKsMFDYA"><img src="{{ 'images/fuzzing_article.png' | relative_url }}" width="230" alt="IEEE Software Article" style="float:right; margin: 0px 0px 0px 15px;" /></a>
 
 From a technical standpoint, this program will develop new techniques in testing and analysis, for detecting security vulnerabilities, specifically for concurrent, stateful and reactive software systems. Traditionally these systems have been checked via verification methods which store the state space in some form. Since common usage of the verification methods is in bug finding, we propose to develop smart fuzzing methods to validate stateful systems. Technically this will involve various innovations in (a) identifying state variables in programs (b) inferring stateful behavior and state machines even when state variables may not be accurately identified, (c) being able to fuzz concurrent systems to capture the space of interleavings and (d) taking advantage of fuzzing distributed data processing systems by opportunistic mutations of data formats. Being able to validate concurrent / distributed / stateful systems, allows us to deeply test the impact of a vendor provided component on (stateful) software. The proposed research is of importance in the context of recent well-known supply chain attacks, such as Solarwinds. Fuzz testing and binary analysis techniques can be employed to prevent such attacks (and others) - to mitigate their impact. 
 

@@ -21,10 +21,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    1100px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        1000px !default;
+$on-laptop:        1100px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -43,6 +43,8 @@ $on-laptop:        1000px !default;
   font-size: $base-font-size * $ratio;
 }
 
+@import "bootstrap";
+
 // Import partials.
 @import
   "minima/base",
@@ -50,5 +52,7 @@ $on-laptop:        1000px !default;
   "minima/syntax-highlighting",
   "minima/people",
   "minima/tabs",
-  "minima/media"
+  "minima/media",
+  "minima/team",
+  "minima/table"
 ;

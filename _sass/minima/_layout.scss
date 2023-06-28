@@ -11,11 +11,14 @@
 }
 
 .site-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   @include relative-font-size(1.625);
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height;
   letter-spacing: -1px;
-  margin-bottom: 0;
+  margin-top: 5px;
   float: left;
   display: flex;
 
@@ -26,13 +29,17 @@
 }
 
 .site-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height;
   opacity: 1;
   z-index: 2;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -40,6 +47,8 @@
   }
 
   .page-link {
+    background-color: transparent; // override bootstrap
+    border: none;
     color: $text-color;
     line-height: $base-line-height;
 
@@ -92,6 +101,8 @@
     }
 
     .page-link {
+      background-color: transparent; // override bootstrap
+      border: none;
       display: block;
       padding: 5px 10px;
 
@@ -115,22 +126,21 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-
 }
 
 .nested-dropdowns li {
   cursor: pointer;
 
   /* Spacing */
-  padding: 4px 16px;
+  padding: 4px 10px;
 
   /* Used to position the sub nested-dropdowns */
   position: relative;
 
   z-index: 1;
-  background-color: #f9f9f9;
+  // background-color: #f9f9f9;
 
-  white-space: nowrap; 
+  white-space: nowrap;
 }
 
 /* The sub nested-dropdowns */
@@ -151,7 +161,7 @@
   margin: 0;
   padding: 0;
 
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 
 /* The second level sub nested-dropdowns */
@@ -161,10 +171,10 @@
   top: 0;
 }
 
-/* Change background color of list item when being hovered */
-.nested-dropdowns li:hover {
-  background-color: rgba(0, 0, 0, 0.1);
-}
+// /* Change background color of list item when being hovered */
+// .nested-dropdowns li:hover {
+//   background-color: rgba(0, 0, 0, 0.1);
+// }
 
 /* Show the direct sub nested-dropdowns when hovering the list item */
 .nested-dropdowns li:hover > ul {

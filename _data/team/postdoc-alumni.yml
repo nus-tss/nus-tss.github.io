@@ -1,0 +1,67 @@
+- name: Umair Z. Ahmed
+  photo: umair.jpg
+  role-nus: Research Fellow
+  website: https://www.linkedin.com/in/umairzahmed/
+
+- name: Zhen Dong
+  photo: zhendong.jpg
+  role-nus: Research Fellow -> Senior Research Fellow
+  time-nus: 2017-21
+  phd: University of Heidelberg in 2017
+  next: Fudan University as Associate Professor from 2021
+  website: https://zhendong2050.github.io/
+
+- name: Jooyong Yi
+  photo: jooyong.jpg
+  role-nus: Senior Research Fellow
+  time-nus: 2013-17
+  phd: Aarhus U. (Denmark)
+  next: Moved to Ulsan National Institute of Science and Technology <a href="https://www.unist.ac.kr/" target="_blank">(UNIST)</a> Korea as Assistant Professor
+  website: https://www.jooyongyi.com/
+
+- name: Marcel Böhme
+  photo: marcel.jpg
+  role-nus: Research Fellow -> Senior Research Fellow
+  time-nus: 2015-18
+  phd: NUS
+  next: Senior Lecturer, Monash -> Faculty Member, Max-Planck Institute for Security and Privacy
+  website: https://mboehme.github.io/
+
+- name: Konstantin Rubinov
+  photo: konstantin.jpg
+  role-nus: Research Fellow
+  time-nus: 2013-15
+  phd: University of Lugano (Switzerland)
+  next: Moved to Politecnico di Milano
+
+- name: Clément Ballabriga
+  photo: clement-2.jpg
+  role-nus: Research Fellow
+  time-nus: 2012-14
+  phd: University of Toulouse (France)
+  next: Moved to University of Lille (France), currently Associate Professor
+  website: https://www.michel-ballabriga.name/
+
+- name: Bruno C. d. S. Oliveira
+  photo: bruno.jpg
+  role-nus: Senior Research Fellow 
+  time-nus: 2012-13
+  phd: Oxford (U.K.)
+  next: Moved to Hong Kong University, currently Associate Professor
+  website: https://i.cs.hku.hk/~bruno/
+
+- name: Ansuman Banerjee
+  photo: ansuman.jpg
+  role-nus: Research Fellow
+  time-nus: 2010
+  phd: IIT Kharagpur (India)
+  next: Moved to Indian Statistical Institute, currently Associate Professor
+  website: https://www.isical.ac.in/~ansuman/index.html
+
+- name: Sun Meng
+  photo: sunmeng.jpg
+  role-nus: Research Fellow
+  time-nus: 2005-06
+  phd: Peking University (China)
+  next: Moved to Peking University (School of Mathematical Sciences), currently Professor
+  website: https://www.math.pku.edu.cn/teachers/sunm/indexen.html

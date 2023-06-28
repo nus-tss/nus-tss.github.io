@@ -1,0 +1,21 @@
+- name: Gregory James Duck
+  photo: greg.jpg
+  role: Research Assistant Professor
+  website: https://www.comp.nus.edu.sg/~gregory/
+
+- name: Yannic Noller
+  photo: yannic.jpeg
+  role: Research Assistant Professor
+  website: https://yannicnoller.github.io/
+
+- name: Andreea Costea
+  photo: andreea.jpg
+  role: Senior Research Fellow
+  website: https://www.comp.nus.edu.sg/~andreeac/
+
+- name: Ridwan Shariffdeen
+  photo: ridwan.jpg
+  role: Research Fellow
+  info: Joined January 2023 as postdoc.
+  topic: Software Vulnerability Repair.
+  website: https://rshariffdeen.com/

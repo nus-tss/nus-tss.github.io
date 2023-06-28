@@ -6,16 +6,18 @@ permalink: /fuzzing/vacancies/index.html
 
 ## Fuzz Testing
 
-<table style="border: none">
+<table class="table table-borderless table-responsive-sm table-equal-width">
+  <tbody>
   <tr>
-    <td style="border: none"><a href="/fuzzing"><b>Overview</b></a></td>
-    <td style="border: none"><a href="/fuzzing/news"><b>News</b></a></td>
-    <td style="border: none"><a href="/fuzzing/publications"><b>Publications</b></a></td>
-    <td style="border: none"><a href="/fuzzing/people"><b>People</b></a></td>
-    <td style="border: none"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
-    <td style="border: none"><a href="/fuzzing/vacancies"><u><b>Vacancies</b></u></a></td>
-    <td style="border: none"><a href="/fuzzing/contact"><b>Contact</b></a></td>
+    <td class="text-center"><a href="/fuzzing"><u><b>Overview</b></u></a></td>
+    <td class="text-center"><a href="/fuzzing/news"><b>News</b></a></td>
+    <td class="text-center"><a href="/fuzzing/publications"><b>Publications</b></a></td>
+    <td class="text-center"><a href="/fuzzing/people"><b>People</b></a></td>
+    <td class="text-center"><a href="/fuzzing/summerschool"><b>Summer School</b></a></td>
+    <td class="text-center"><a href="/fuzzing/vacancies"><b>Vacancies</b></a></td>
+    <td class="text-center"><a href="/fuzzing/contact"><b>Contact</b></a></td>
   </tr>
+  </tbody>
 </table>
 
 ### Post-doctoral Research Fellow

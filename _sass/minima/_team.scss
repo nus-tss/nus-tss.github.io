@@ -1,0 +1,21 @@
+/* Style the profile pictures */
+.team-pic {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  border-radius: 10%;
+  width: 25%;
+  float: left;
+  margin-right: 15px;
+  @extend %clearfix;
+}
+
+.team-info {
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+/* Add some margin to the rows, since we dont want to modify 
+   bootstrap directory */
+.row-buffer { 
+  margin-top: 30px;
+  margin-bottom: 70px; 
+}
