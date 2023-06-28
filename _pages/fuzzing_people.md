@@ -70,7 +70,7 @@ permalink: /fuzzing/people/index.html
     <div class="name"><a href="https://www.comp.nus.edu.sg/~umathur/">Umang Mathur</a>, Co-PI</div>
     <div class="title">Assistant Professor, NUS</div>
     <div class="bio">
-      <p>Dr. Umang Mathur is an Assistant Professor in the School of Computing at the National University of Singapore, and part of PLSE@NUS. He obtained his PhD from the University of Illinois at Urbana-Champaign, where he was advised by the Prof. Mahesh Viswanathan. Prior to joining NUS, Umang was a Research Scientist at Facebook Inc. and a Research Fellow at the Simons Institute for the Theory of Computing. His PhD was supported, in part, by a Google PhD Fellowship.</p>
+      <p>Dr. Umang Mathur is a Presidential Young Professor in the School of Computing at the National University of Singapore, where he is a part of PLSE@NUS, and is a Visiting Assistant Professor at IIT Bombay. He obtained his PhD from the University of Illinois at Urbana-Champaign. Prior to joining NUS, Umang was a Research Scientist at Facebook Inc. and an NTT Research Fellow at the Simons Institute for the Theory of Computing. His work has been recognized by a Google PhD Fellowship, a Google Research grant and Distinguished and Best paper awards at ESEC/FSE 2018, ASPLOS 2022 and POPL 2023.</p>
     </div>
   </div>
 </div>
@@ -111,6 +111,7 @@ permalink: /fuzzing/people/index.html
 
 <hr>
 
+<!--
 <div class="person">
   <div class="profile">
     <img class="profile-img" src="{{ 'images/people/dirk_beyer.jpg' | relative_url }}"/>
@@ -125,6 +126,7 @@ permalink: /fuzzing/people/index.html
 </div>
 
 <hr>
+-->
 
 <div class="person">
   <div class="profile">
@@ -185,27 +187,10 @@ permalink: /fuzzing/people/index.html
 
 <div class="person">
   <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
-  </div>
-  <div class="description">
-    <div class="name"><a href="">Ho Han Kit Ivan</a></div>
-    <div class="title">Research Assistant and PhD Student, NUS</div>
-    <div class="bio">
-      <p>      
-      
-      </p>
-    </div>
-  </div>
-</div>
-
-<hr>
-
-<div class="person">
-  <div class="profile">
     <img class="profile-img" src="{{ 'images/people/zhao-huan.jpeg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="">Zhao Huan</a></div>
+    <div class="name">Zhao Huan</div>
     <div class="title">Research Assistant and PhD Student, NUS</div>
     <div class="bio">
       <p>
@@ -219,18 +204,34 @@ permalink: /fuzzing/people/index.html
 
 <div class="person">
   <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/<>' | relative_url }}"/>
+    <img class="profile-img" src="{{ 'images/people/shi-zheng.jpg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="">Zheng</a></div>
+    <div class="name"><a href="">Shi Zheng</a></div>
     <div class="title">PhD Student, NUS</div>
     <div class="bio">
       <p>
+      Shi Zheng is a first-year PhD Student in the <a href="https://www.comp.nus.edu.sg/cs/">Department of Computer Science</a> at the <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, advised by <a href="https://www.comp.nus.edu.sg/~umathur/">Prof. Umang Mathur</a>. He is working on concurrency and dynamic analysis with a general research interest in program analysis and data race detection.
       </p>
     </div>
   </div>
 </div>
 
+<hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/ivan.jpg' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name">Ho Han Kit Ivan</div>
+    <div class="title">Research Assistant and Master’s Student, NUS</div>
+    <div class="bio">
+      <p>Ivan is a second-year Master’s Student in the <a href="https://www.comp.nus.edu.sg/cs/">Department of Computer Science</a> at the <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, advised by <a href="https://www.comp.nus.edu.sg/cs/people/chinwn/">Prof. Wei-Ngan Chin</a> and <a href="https://www.manuelrigger.at">Prof. Manuel Rigger</a>. His research interests are in compilers and software reliability.
+      </p>
+    </div>
+  </div>
+</div>
 
 </div>
 
