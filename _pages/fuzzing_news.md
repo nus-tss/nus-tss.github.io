@@ -4,7 +4,7 @@ title: "Vacancies"
 permalink: /fuzzing/news/index.html
 ---
 
-* July, 2023: <a href="#july-2023">New research project funded!</a>
+* July  2023: <a href="#july-2023">New research project funded!</a>
 
 <br>
 
