@@ -40,9 +40,6 @@ In our research group, we focus on **software testing and analysis**, **software
 </table>
 
 
-## Work on Trustworthy AI ##
-
-See <a href="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> here</a> for the research and open positions.
 
 
 ## Past Research Projects
