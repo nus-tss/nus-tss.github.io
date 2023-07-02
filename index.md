@@ -22,7 +22,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 ## Sample Current Projects
 
 * <a href = "https://nus-tss.github.io/fuzzing"> Fuzz Testing</a>
-* <a href = "https://nus-apr.github.io">Automated Program Repair</a>
+* <a href = "https://nus-apr.github.io">Program Repair</a>
 * <a href ="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> Trustworthy Hybrid AI </a>
 
 
