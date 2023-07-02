@@ -21,9 +21,9 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 
 ## Sample Past Projects
 
-* NRF Cybersecurity: <a href = "https://www.comp.nus.edu.sg/~tsunami"> TSUNAMi: Trustworthy Systems from Un-trusted Component Amalgamations</a>
-* NRF Cybersecurity: <a href = "https://www.comp.nus.edu.sg/~tss">National Satellite of Excellence in Trustworthy Software Systems</a>
-* Ministry of Education: <https://www.comp.nus.edu.sg/~abhik/projects/moe10/project.html"> Analysis and Testing of Evolving Software</a>
+* <a href = "https://www.comp.nus.edu.sg/~tsunami"> TSUNAMi: Trustworthy Systems from Un-trusted Component Amalgamations</a>
+* <a href = "https://www.comp.nus.edu.sg/~tss">National Satellite of Excellence in Trustworthy Software Systems</a>
+* <a href ="https://www.comp.nus.edu.sg/~abhik/projects/moe10/project.html"> Analysis and Testing of Evolving Software</a>
 
 ## Recent News
 
@@ -35,7 +35,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 * Jan 2023: Past work from the group on program repair receives <a href = "https://www.sigsoft.org/awards/icseMIPAward.html">Most Influential Paper Award </a>(10 year test-of-time award) from International Conference on Software Engineering (ICSE) 2023, for the work
   <a href= "https://abhikrc.com/pdf/ICSE13-SEMFIX.pdf"> SemFix</a>.
 * August 2022:  5 year research program on <a href="https://nus-apr.github.io">Program Repair</a> starts, <a href = "https://nus-apr.github.io/launch-event/">Grant launch event</a>
-* November 2022:  <a href="https://2022.esec-fse.org/"><b>Foundations of Software Engineering (ESEC-FSE) 2022<b></a> from ACM SIGSOFT held in Singapore, thanks to all of those who attended in this post-COVID conference.
+* November 2022:  <a href="https://2022.esec-fse.org/"><b>Foundations of Software Engineering (ESEC-FSE) 2022</b></a> from ACM SIGSOFT held in Singapore, thanks to all of those who attended in this post-COVID conference.
 * March 2022: Abhik Roychoudhury honored to receive IEEE TCSE New Directions Award, jointly with Cristian Cadar, for contributions to symbolic execution used for test generation and program repair.
 * Jan 2022: Thanks to Oracle Labs for their generous donation to further our research on program repair.
 
