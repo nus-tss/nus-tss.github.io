@@ -38,6 +38,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 * November 2022:  <a href="https://2022.esec-fse.org/"><b>Foundations of Software Engineering (ESEC-FSE) 2022</b></a> from ACM SIGSOFT held in Singapore, thanks to all of those who attended in this post-COVID conference.
 * August/Nov 2022:  5 year research program on <a href="https://nus-apr.github.io">Program Repair</a> starts, <a href = "https://nus-apr.github.io/launch-event/">Grant launch event</a> in Nov 2022.
 * March 2022: Abhik Roychoudhury honored to receive IEEE TCSE New Directions Award, jointly with Cristian Cadar, for contributions to symbolic execution used for test generation and program repair.
+* Dec21 / Jan22: Thanks for Oracle Labs for their generous gift towards our research on program repair.
 
 
 
