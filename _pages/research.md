@@ -30,7 +30,7 @@ In our research group, we focus on **software testing and analysis**, **software
   
   <tr height="90px">
     <td class="align-middle text-center col-sm-2">
-      <a href="https://descartes.cnrsatcreate.cnrs.fr/"><img src="{{ 'images/descartes_logo.png' | relative_url }}" width="100" alt="Descartes Logo"/></a>
+      <a href="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"><img src="{{ 'images/descartes_logo.png' | relative_url }}" width="100" alt="Descartes Logo"/></a>
     </td>
     <td class="align-middle col-sm-10">
       <a href="https://descartes.cnrsatcreate.cnrs.fr/">Descartes: Intelligent Modeling for Decision Making in Critical Urban Systems</a>, 2021-26.
@@ -38,6 +38,11 @@ In our research group, we focus on **software testing and analysis**, **software
   </tr>
   </tbody>
 </table>
+
+
+## Work on Trustworthy AI ##
+
+See <a href="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> here</a> for the research and open positions.
 
 
 ## Past Research Projects
