@@ -17,7 +17,7 @@ permalink: /news/index.html
 
 We just launched our new group webpage containing information about our team and the ongoing research projects. We will keep updating this webpage with our latest news!  To start with here are some developments in past 2 years.
 
-*August 2023: <a href = "https://yannicnoller.github.io/">Yannic Noller</a> who has been a post-doc in the group for last three years, joins Singapore University of Technology and Design (SUTD) as Assistant Professor.
+* August 2023: <a href = "https://yannicnoller.github.io/">Yannic Noller</a> who has been a post-doc in the group for last three years joins Singapore University of Technology and Design (SUTD) as Assistant Professor.
 * July, 2023: <a href="fuzzing/news/#july-2023">New research program on fuzz testing launched!</a>
 * June 2023: <a href="news/#june-2023">New group webpage launched!</a>
 * April 2023: Our PhD alumni <a href="https://shinhwei.com">Shin Hwei Tan<a> joins Concordia Uni. as Gina Cody Research Chair Assoc Prof.
