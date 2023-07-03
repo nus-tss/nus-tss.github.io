@@ -64,3 +64,21 @@ arxiv, Posted 2023.
 <br>
 *Zhengxiong Luo, Junze Yu, Feilong Zuo, Jianzhong Liu, Yu Jiang, Ting Chen, Abhik Roychoudhury, Jiaguang Sun*<br>
 Usenix Security Symposium 2023.
+
+**Testing Database Engines via Query Plan Guidance**
+[{{page.pdf}}](https://jinshengba.me/assets/pdf/qpg_icse23.pdf)
+<br>
+*Jinsheng Ba, Manuel Rigger*,
+International Conference on Software Engineering, 2023
+
+**Finding bugs in database systems via query partitioning**
+[{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
+*Manuel Rigger, Zhendong Su*,
+Proceedings of the ACM on Programming Languages, 2022.
+
+**Finding Performance Issues in Database Engines via Cardinality Estimation
+Testing**
+[{{page.pdf}}](https://arxiv.org/pdf/2306.00355.pdf)
+*Jinsheng Ba, Manuel Rigger*,
+arxiv, Posted 2023.
+
