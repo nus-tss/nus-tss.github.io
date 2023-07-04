@@ -128,14 +128,48 @@ permalink: /fuzzing/people/index.html
   </div>
 </div>
 
+<!-- <hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/a.jpg' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="https://www.linkedin.com/in/dr-jonathan-pan-b6590491/?originalSubdomain=sg">Jonathan Pan</a></div>
+    <div class="title">Chief (Disruptive Technologies Office), Home Team Science & Technology Agency (HTX), Singapore</div>
+    <div class="bio">
+      <p>Dr. Jonathan Pan ...
+      </p>
+    </div>
+  </div>
+</div> -->
+
+
 </div>
 
 
 
 
 
-
 <div id="ss" data-tab-content>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/greg.jpg' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="https://www.comp.nus.edu.sg/~gregory/">Gregory J. Duck</a></div>
+    <div class="title">Research Assistant Professor, NUS</div>
+    <div class="bio">
+      <p>Gregory is a Research Assistant Professor at the <a href="https://nus.edu.sg/">National University of Singapore</a> and currently serves as the Assistant Director of the <a href="https://www.comp.nus.edu.sg/~nsoe-tss/">National Satellite of Excellence in Trustworthy Software Systems</a> (Singapore).</p>
+      <p>Previously, Gregory received his BSc (Mathematics), BEng (Software) and Phd (Computer Science) from the <a href="https://www.unimelb.edu.au/">University of Melbourne</a>. From 2011 Gregory works at the <a href="https://nus.edu.sg/">National University of Singapore</a>.</p>
+      <p>Gregory's research interests include: systems, security, binary rewriting, programming languages, constraint programming, functional programming and rewrite systems.</p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
 
 <div class="person">
   <div class="profile">
