@@ -21,17 +21,15 @@ Participants to the Singapore Fuzzing Summer School will gain insights into the 
 
 ### Speakers
 
-**TBA**
-
 The school will invite 4-5 international experts in the area of fuzzing to give instruction.  Some additional instruction will be provided by local speakers from Singapore’s fuzzing research groups.
+
+_Speaker details to be announced._
 
 ### Program
 
-**TBA**
+_To be announced._
 
 ### Registration
-
-**TBA**
 
 The number of places will be limited. More information about the registration process and selection criteria will be published in due course.
 
@@ -44,7 +42,4 @@ For more information about Singapore, please visit:
 
 ### Accommodation and Travel Information
 
-**TBA**
-
-
-
+_To be announced._
