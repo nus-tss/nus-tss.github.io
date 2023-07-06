@@ -128,21 +128,21 @@ permalink: /fuzzing/people/index.html
   </div>
 </div>
 
-<!-- <hr>
+<hr>
 
 <div class="person">
   <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/a.jpg' | relative_url }}"/>
+    <img class="profile-img" src="{{ 'images/people/jonathan-pan.jpg' | relative_url }}"/>
   </div>
   <div class="description">
     <div class="name"><a href="https://www.linkedin.com/in/dr-jonathan-pan-b6590491/?originalSubdomain=sg">Jonathan Pan</a></div>
     <div class="title">Chief (Disruptive Technologies Office), Home Team Science & Technology Agency (HTX), Singapore</div>
     <div class="bio">
-      <p>Dr. Jonathan Pan ...
+      <p>Dr. Jonathan Pan leads the Disruptive Technologies Office of the Home Team Science and Technology Agency (HTX), Singapore. This office explores the frontiers of Science and Technologies, like Artificial Intelligence and Quantum, for homeland security application through their applied Research and Development endeavours. Jonathan also conducts his own research in computational forensics. He is also an Adjunct Associate Professor with Nanyang Technological University Singapore where he teaches Cyber Security and Artificial Intelligence courses.
       </p>
     </div>
   </div>
-</div> -->
+</div>
 
 
 </div>
