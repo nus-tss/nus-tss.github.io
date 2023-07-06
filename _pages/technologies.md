@@ -45,5 +45,4 @@ programs using taint analysis - Released 2019.
 * [CoreBench](http://www.comp.nus.edu.sg/~release/corebench): A set of benchmarks containing realistic regression errors, as opposed to seeded errors, ISSTA 2014 [{{page.pdf}}](https://abhikrc.com/pdf/issta14.pdf)
 * [Chronos for multi-cores](http://www.comp.nus.edu.sg/~rpembed/chronos-multi-core.html): the *first* execution time analysis tool for multi-core platforms.
 * [Chronos](http://www.comp.nus.edu.sg/~rpembed/chronos): Worst-case Execution Time (WCET) Analysis for C programs with users in around <font color="#FF0000">110</font> organizations (universities &amp; companies); used in under-graduate teaching in universities outside NUS, and successful participant in first WCET Tool Challenge in 2006.
-* [Symbolic Simulator for Live Sequence Charts (LSCs)](https://abhikrc.com/LSCsim/symbolic_simulator_engine.htm)
 * [Memory Model Sensitive Assertion Checker for C# Programs](http://www.comp.nus.edu.sg/~release/mmchecker)
