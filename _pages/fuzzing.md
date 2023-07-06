@@ -35,7 +35,9 @@ Our research in **fuzz testing** is funded with a grant from **National Research
 
 ## Recent News
 
-* July, 2023: <a href="news/#july-2023">News research project funded!</a>
+* July  2023: <a href="news/#july-2023">New research project funded!</a>
+* April, 2022: <a href="news/#april-2022">Abhik Roychoudhury honored with IEEE New Directions Award</a>
+
 
 <br>
 

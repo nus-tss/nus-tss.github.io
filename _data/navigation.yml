@@ -7,25 +7,30 @@
 - title: "Team"
   url: /team/
 
+- title: "Technologies"
+  url: /technologies/
+
 - title: "Research Topics"
   url: /research/
+
+- title: "APR"
+  url: /apr
+
+- title: "Fuzz Testing"
+  url: /fuzzing
   sublinks:
-    - title: "Automated Program Repair"
-      url: /apr
-    - title: "Fuzz Testing"
+    - title: Overview
       url: /fuzzing
-      sublinks:
-      - title: Overview
-        url: /fuzzing
-      - title: News
-        url: /fuzzing/news
-      - title: Publications
-        url: /fuzzing/publications
-      - title: People
-        url: /fuzzing/people
-      - title: Summer School
-        url: /fuzzing/summerschool
-      - title: Vacancies
-        url: /fuzzing/vacancies
-      - title: Contact
-        url: /fuzzing/contact
+    - title: News
+      url: /fuzzing/news
+    - title: Publications
+      url: /fuzzing/publications
+    - title: People
+      url: /fuzzing/people
+    - title: Summer School
+      url: /fuzzing/summerschool
+    - title: Vacancies
+      url: /fuzzing/vacancies
+    - title: Contact
+      url: /fuzzing/contact
+    
