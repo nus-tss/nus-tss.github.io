@@ -166,7 +166,7 @@
 
   /* Absolute position */
   position: absolute;
-  left: -80px; // so that the dropdown does not go beyond navbar border
+  left: -20px; // so that the dropdown does not go beyond navbar border
   top: 100%;
 
   /* Reset styles */
@@ -179,7 +179,7 @@
   // in mobile mode, put the drop down at bottom
   @include media-query($on-palm) {
     top: 100%;
-    left: -70px;
+    left: 0px;
   }
 }
 
