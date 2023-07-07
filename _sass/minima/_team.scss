@@ -1,6 +1,7 @@
 /* Style the profile pictures */
 .team-pic {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* this adds the "card" effect */
   border-radius: 10%;
   width: 25%;
   float: left;
@@ -13,18 +14,18 @@
   overflow: hidden;
 }
 
-/* Add some margin to the rows, since we dont want to modify 
+/* Add some margin to the rows, since we dont want to modify
    bootstrap directory */
-.row-buffer { 
+.row-buffer {
   margin-top: 30px;
-  margin-bottom: 70px; 
+  margin-bottom: 70px;
 
   @include media-query($on-palm) {
     margin: 0 5px;
   }
 }
 
-/* On mobile, one column is on one line. 
+/* On mobile, one column is on one line.
   We then need some spacing between two columns. */
 .column-buffer {
   @include media-query($on-palm) {

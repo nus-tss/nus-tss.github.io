@@ -3,7 +3,8 @@
   position: relative;
   overflow: hidden;
   width: 90%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  padding-top: 56.25%;
+  /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
 .video-container {
@@ -11,7 +12,8 @@
   position: relative;
   overflow: hidden;
   width: 90%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  padding-top: 56.25%;
+  /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
   z-index: 0;
 }
 
@@ -19,10 +21,11 @@
   position: relative;
   overflow: hidden;
   padding-bottom: 56.25%;
-  height:0;
+  height: 0;
 }
 
-.responsive-iframe { /* fit to container */
+.responsive-iframe {
+  /* fit to container */
   position: absolute;
   top: 0;
   left: 0;

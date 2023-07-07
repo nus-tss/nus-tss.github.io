@@ -5,8 +5,13 @@
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 .active[data-tab-content] {
@@ -48,7 +53,7 @@ body {
 }
 
 .tab.active {
-  color:#222;
+  color: #222;
   border-color: #1e87f0;
 }
 
@@ -60,52 +65,3 @@ body {
   margin-left: 20px;
   margin-right: 20px;
 }
-
-
-// .tabs {
-//   display: flex;
-//   justify-content: space-around;
-//   list-style-type: none;
-//   margin: 0;
-//   padding: 0;
-//   border-bottom: 1px solid #778;
-//   font-weight: bold;
-// }
-
-// .tab {
-//   display: inline;
-//   list-style: none;
-//   margin: 0;
-//   cursor: pointer;
-//   padding: 10px;
-
-//   border: 1px solid #778;
-//   border-radius: 0.5em 0.5em 0% 0%;
-//   border-bottom: none;
-//   background: #DDE;
-//   // text-decoration: none;
-// }
-
-// .tab.active {
-//   background: white;
-//   border-bottom: 1px solid white;
-// }
-
-// .tab:link {
-//   color: #448;
-// }
-
-// .tab:visited {
-//   color: #667;
-// }
-
-// .tab:hover {
-//   color: #000;
-//   background: #AAE;
-//   border-color: #227;
-// }
-
-// .tab-content {
-//   margin-left: 20px;
-//   margin-right: 20px;
-// }
