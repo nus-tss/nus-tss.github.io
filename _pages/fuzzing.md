@@ -2,6 +2,9 @@
 layout: fuzzing
 title: "Fuzz Testing"
 permalink: /fuzzing/index.html
+
+download: <i class="fa fa-download"></i>
+pdf: <i class="fa fa-file-pdf-o"></i>
 ---
 
 <img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="200" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
@@ -26,6 +29,23 @@ We summarize the open challenges and opportunities for fuzzing and symbolic exec
 <img src="{{ 'images/nrf_logo.png' | relative_url }}" width="250" alt="Fuzzing" style="float:left; margin: 0px 30px 15px 0px;" />
 
 Our research in **fuzz testing** is funded with a grant from **National Research Foundation (NRF) Cybersecurity R&D**, (2023-27).
+
+<br>
+
+---
+<br>
+
+
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-details">
+Check Prof. Abhik Roychoudhury's <a href="{{ '../files/NUSJuly2023.pdf' | relative_url }}">{{page.download}} slides</a> for his <a href="https://events.comp.nus.edu.sg/view/20906">CS Seminar</a> talk about <b>Fuzz Testing</b>. He describes the story about how he started his research in fuzz testing and highlights several impactful research outcomes.
+        </div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">      
+<a href="{{ '../files/NUSJuly2023.pdf' | relative_url }}"><img src="{{ '../files/NUSJuly2023.jpg' | relative_url }}" width="250" alt="Fuzzing Slides" style="float:left; margin: 15px 15px 15px 0px;" /></a>
+    </div>
+</div>
 
 <br>
 
