@@ -38,6 +38,7 @@
   line-height: $base-line-height;
   opacity: 1;
   z-index: 2;
+  letter-spacing: -0.5px;
 
   .nav-trigger {
     display: none;
@@ -125,7 +126,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  
+
   @include media-query($on-palm) {
     display: grid; // to make the dropdown vertical in mobile mode
   }
