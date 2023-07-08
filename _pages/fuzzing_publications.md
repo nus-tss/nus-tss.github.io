@@ -20,13 +20,15 @@ news: <i class="fa fa-newspaper-o"></i>
 **Coverage-based Greybox Fuzzing as Markov Chain**
 [{{page.pdf}}](http://www.comp.nus.edu.sg/~abhik/pdf/CCS16.pdf)
 <br>
-*Marcel Böhme, Van Thuan Pham, Abhik Roychoudhury*<br>
+_Marcel Böhme, Van Thuan Pham, Abhik Roychoudhury_
+<br>
 23rd ACM Conference on Computer and Communications Security (CCS) 2016.
 
 **Directed Greybox Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/CCS17.pdf)
 <br>
-*Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury*<br>
+_Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury_
+<br>
 24th ACM Conference on Computer and Communications Security (CCS) 2017.
 
 **Smart Greybox Fuzzing**
@@ -34,19 +36,22 @@ news: <i class="fa fa-newspaper-o"></i>
 &nbsp;[{{page.news}}](https://www.theregister.co.uk/2018/11/28/better_fuzzer_aflsmart/)
 &nbsp;[{{page.news}}](https://www.securityweek.com/researchers-introduce-smart-greybox-fuzzing)
 <br>
-*Van-Thuan Pham, Marcel Böhme, Andrew E. Santosa, Alexandru Razvan Caciulescu, Abhik Roychoudhury*<br>
+_Van-Thuan Pham, Marcel Böhme, Andrew E. Santosa, Alexandru Razvan Caciulescu, Abhik Roychoudhury_
+<br>
 IEEE Transactions on Software Engineering, 47(9), 2021.
- 
+
 **Linear-time Temporal Logic guided Greybox Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/ICSE22-LTLFuzz.pdf)
 <br>
-*Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury*
+_Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury_
+<br>
 IEEE/ACM 44th International Conference on Software Engineering (ICSE) 2022.
 
 **Fuzzing: Challenges and Reflections**
 [{{page.pdf}}](https://abhikrc.com/pdf/IEEE-SW-Fuzzing.pdf)
 <br>
-*Marcel Böhme, Cristian Cadar, Abhik Roychoudhury*
+_Marcel Böhme, Cristian Cadar, Abhik Roychoudhury_
+<br>
 IEEE Software, 38(3), 2021.
 
 ---
@@ -56,29 +61,35 @@ IEEE Software, 38(3), 2021.
 **Distributed System Fuzzing**
 [{{page.pdf}}](https://arxiv.org/pdf/2305.02601.pdf)
 <br>
-*Ruijie Meng, George Pirlea, Abhik Roychoudhury, Ilya Sergey*
+_Ruijie Meng, George Pirlea, Abhik Roychoudhury, Ilya Sergey_
+<br>
 arxiv, Posted 2023.
 
 **Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations**
 [{{page.pdf}}](https://abhikrc.com/pdf/sec23.pdf)
 <br>
-*Zhengxiong Luo, Junze Yu, Feilong Zuo, Jianzhong Liu, Yu Jiang, Ting Chen, Abhik Roychoudhury, Jiaguang Sun*<br>
+_Zhengxiong Luo, Junze Yu, Feilong Zuo, Jianzhong Liu, Yu Jiang, Ting Chen, Abhik Roychoudhury, Jiaguang Sun_
+<br>
 Usenix Security Symposium 2023.
 
 **Testing Database Engines via Query Plan Guidance**
 [{{page.pdf}}](https://jinshengba.me/assets/pdf/qpg_icse23.pdf)
 <br>
-*Jinsheng Ba, Manuel Rigger*,
+_Jinsheng Ba, Manuel Rigger_
+<br>
 International Conference on Software Engineering, 2023
 
 **Finding bugs in database systems via query partitioning**
 [{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
-*Manuel Rigger, Zhendong Su*,
+<br>
+_Manuel Rigger, Zhendong Su_
+<br>
 Proceedings of the ACM on Programming Languages, 2022.
 
 **Finding Performance Issues in Database Engines via Cardinality Estimation
 Testing**
 [{{page.pdf}}](https://arxiv.org/pdf/2306.00355.pdf)
-*Jinsheng Ba, Manuel Rigger*,
+<br>
+_Jinsheng Ba, Manuel Rigger_
+<br>
 arxiv, Posted 2023.
-
