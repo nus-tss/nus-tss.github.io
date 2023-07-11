@@ -23,7 +23,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 
 * <a href = "https://nus-tss.github.io/fuzzing"> Fuzz Testing</a> (2023-27)
 * <a href = "https://nus-apr.github.io">Automated Program Repair</a> (2022-27)
-* <a href ="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> Trustworthy Hybrid AI </a> (2021 - 2026)
+* <a href ="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> Descartes (Intelligent Decision Making for Smart Cities) </a> (2021 - 2026)
 
 
 
