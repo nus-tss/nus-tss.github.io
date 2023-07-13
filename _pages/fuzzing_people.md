@@ -144,6 +144,23 @@ permalink: /fuzzing/people/index.html
   </div>
 </div>
 
+<hr>
+
+<div class="person">
+  <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/gosst.jpg' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="https://google.github.io/fuzzbench/">Fuzzing team on the Google Open Source Security team</a></div>
+    <div class="bio">
+      <p>
+      The fuzzing team on the Open Source Security Team at Google works on applying fuzzing to improve the security of real world programs 
+      (both Google products and open source libraries at large) through platforms such as <a href="https://google.github.io/oss-fuzz/">OSS-Fuzz</a> and <a href="https://google.github.io/fuzzbench/">FuzzBench</a>.
+      </p>
+    </div>
+  </div>
+</div>
+
 
 </div>
 
