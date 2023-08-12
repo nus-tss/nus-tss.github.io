@@ -58,12 +58,12 @@ IEEE Software, 38(3), 2021.
 <br>
 ### Recent Publications
 
-**Distributed System Fuzzing**
-[{{page.pdf}}](https://arxiv.org/pdf/2305.02601.pdf)
+**Greybox Fuzzing of Distributed Systems**
+[{{page.pdf}}](https://abhikrc.com/pdf/CCS23.pdf)
 <br>
 _Ruijie Meng, George Pirlea, Abhik Roychoudhury, Ilya Sergey_
 <br>
-arxiv, Posted 2023.
+30th ACM Conference on Computer and Communications Security (CCS) 2023.
 
 **Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations**
 [{{page.pdf}}](https://abhikrc.com/pdf/sec23.pdf)
