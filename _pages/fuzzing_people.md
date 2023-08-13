@@ -197,7 +197,7 @@ permalink: /fuzzing/people/index.html
     <div class="title">PhD Student, NUS</div>
     <div class="bio">
       <p>
-      Ruijie Meng is a third-year PhD Student in the <a href="https://www.comp.nus.edu.sg/cs/">Department of Computer Science</a> at the <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, advised by <a href="https://abhikrc.com/">Prof. Abhik Roychoudhury</a>. Her research interests fall in program analysis and testing. The current research focuses on reactive system fuzzing.
+      Ruijie Meng is a PhD Student in the <a href="https://www.comp.nus.edu.sg/cs/">Department of Computer Science</a> at the <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, advised by <a href="https://abhikrc.com/">Prof. Abhik Roychoudhury</a>. Her research interests fall in program analysis and testing. The current research focuses on reactive system fuzzing.
 		</p>
     </div>
   </div>
