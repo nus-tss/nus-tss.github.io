@@ -22,14 +22,14 @@ news: <i class="fa fa-newspaper-o"></i>
 <br>
 _Marcel Böhme, Van Thuan Pham, Abhik Roychoudhury_
 <br>
-23rd ACM Conference on Computer and Communications Security (CCS) 2016.
+23rd ACM Conference on Computer and Communications Security (CCS), 2016.
 
 **Directed Greybox Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/CCS17.pdf)
 <br>
 _Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury_
 <br>
-24th ACM Conference on Computer and Communications Security (CCS) 2017.
+24th ACM Conference on Computer and Communications Security (CCS), 2017.
 
 **Smart Greybox Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/TSE19AFLSmart.pdf)
@@ -38,14 +38,14 @@ _Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury_
 <br>
 _Van-Thuan Pham, Marcel Böhme, Andrew E. Santosa, Alexandru Razvan Caciulescu, Abhik Roychoudhury_
 <br>
-IEEE Transactions on Software Engineering, 47(9), 2021.
+IEEE Transactions on Software Engineering (TSE), 47(9), 2021.
 
 **Linear-time Temporal Logic guided Greybox Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/ICSE22-LTLFuzz.pdf)
 <br>
 _Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury_
 <br>
-IEEE/ACM 44th International Conference on Software Engineering (ICSE) 2022.
+IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022.
 
 **Fuzzing: Challenges and Reflections**
 [{{page.pdf}}](https://abhikrc.com/pdf/IEEE-SW-Fuzzing.pdf)
@@ -63,28 +63,28 @@ IEEE Software, 38(3), 2021.
 <br>
 _Ruijie Meng, George Pirlea, Abhik Roychoudhury, Ilya Sergey_
 <br>
-30th ACM Conference on Computer and Communications Security (CCS) 2023.
+30th ACM Conference on Computer and Communications Security (CCS), 2023.
 
 **Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations**
 [{{page.pdf}}](https://abhikrc.com/pdf/sec23.pdf)
 <br>
 _Zhengxiong Luo, Junze Yu, Feilong Zuo, Jianzhong Liu, Yu Jiang, Ting Chen, Abhik Roychoudhury, Jiaguang Sun_
 <br>
-Usenix Security Symposium 2023.
+Usenix Security Symposium, 2023.
 
 **Testing Database Engines via Query Plan Guidance**
 [{{page.pdf}}](https://jinshengba.me/assets/pdf/qpg_icse23.pdf)
 <br>
 _Jinsheng Ba, Manuel Rigger_
 <br>
-International Conference on Software Engineering, 2023
+IEEE/ACM International Conference on Software Engineering (ICSE), 2023
 
 **Finding bugs in database systems via query partitioning**
 [{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
 <br>
 _Manuel Rigger, Zhendong Su_
 <br>
-Proceedings of the ACM on Programming Languages, 2022.
+Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
 
 **Finding Performance Issues in Database Engines via Cardinality Estimation
 Testing**
