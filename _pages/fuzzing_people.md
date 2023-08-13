@@ -244,7 +244,7 @@ permalink: /fuzzing/people/index.html
     <img class="profile-img" src="{{ 'images/people/shi-zheng.jpg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="">Shi Zheng</a></div>
+    <div class="name"><a href="https://www.comp.nus.edu.sg/~zs357/">Shi Zheng</a></div>
     <div class="title">PhD Student, NUS</div>
     <div class="bio">
       <p>
