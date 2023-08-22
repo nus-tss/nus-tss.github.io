@@ -6,7 +6,7 @@ permalink: /fuzzing/summerschool/index.html
 
 ## Singapore Fuzzing Summer School 2024
 
-The inaugural Singapore Fuzzing Summer School will debut on the week of the 20th-24th May 2024 at the [National University of Singapore](https://nus.edu.sg/) in [Singapore](https://www.visitsingapore.com/en/).
+The inaugural Singapore Fuzzing Summer School will debut on the week of the 27th-31st May 2024 at the [National University of Singapore](https://nus.edu.sg/) in [Singapore](https://www.visitsingapore.com/en/).
 The school will focus on recent advances in fuzzing technology and the practical application of fuzz testing tools.
 The school invites both postgraduate students and researchers with a relevant interest in software testing.
 The school also invites industry professionals who wish to gain practical hands-on knowledge on fuzz testing tools and technologies
