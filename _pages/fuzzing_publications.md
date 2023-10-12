@@ -58,6 +58,13 @@ IEEE Software, 38(3), 2021.
 <br>
 ### Recent Publications
 
+**Large Language Model guided Protocol Fuzzing**
+[{{page.pdf}}](https://abhikrc.com/pdf/NDSS24.pdf)
+<br>
+_Ruijie Meng, Martin Mirchev, Marcel Böhme, Abhik Roychoudhury_
+<br>
+31st Annual Network and Distributed System Security Symposium (NDSS), 2024.
+
 **Greybox Fuzzing of Distributed Systems**
 [{{page.pdf}}](https://abhikrc.com/pdf/CCS23.pdf)
 <br>
