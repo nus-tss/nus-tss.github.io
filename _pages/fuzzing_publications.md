@@ -93,10 +93,16 @@ _Manuel Rigger, Zhendong Su_
 <br>
 Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
 
-**Finding Performance Issues in Database Engines via Cardinality Estimation
-Testing**
+**Finding Performance Issues in Database Engines via Cardinality Estimation Testing**
 [{{page.pdf}}](https://arxiv.org/pdf/2306.00355.pdf)
 <br>
 _Jinsheng Ba, Manuel Rigger_
 <br>
 arxiv, Posted 2023.
+
+**Large Language Model guided Protocol Fuzzing**
+[{{page.pdf}}](https://abhikrc.com/pdf/NDSS24.pdf)
+<br>
+_Ruijie Meng, Martin Mirchev, Marcel Böhme, Abhik Roychoudhury_
+<br>
+31st Annual Network and Distributed System Security Symposium (NDSS), 2024.
