@@ -59,6 +59,9 @@ _Jinsheng Ba, Manuel Rigger_
 <br>
 arxiv, Posted 2023.
 
+---
+<br>
+
 ### Key Works
 
 **Coverage-based Greybox Fuzzing as Markov Chain**
@@ -98,6 +101,5 @@ _Marcel Böhme, Cristian Cadar, Abhik Roychoudhury_
 <br>
 IEEE Software, 38(3), 2021.
 
----
-<br>
+
 
