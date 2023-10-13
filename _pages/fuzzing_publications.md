@@ -15,47 +15,6 @@ poster: <i class="fa fa-bar-chart"></i>
 news: <i class="fa fa-newspaper-o"></i>
 ---
 
-### Key Works
-
-**Coverage-based Greybox Fuzzing as Markov Chain**
-[{{page.pdf}}](http://www.comp.nus.edu.sg/~abhik/pdf/CCS16.pdf)
-<br>
-_Marcel Böhme, Van Thuan Pham, Abhik Roychoudhury_
-<br>
-23rd ACM Conference on Computer and Communications Security (CCS), 2016.
-
-**Directed Greybox Fuzzing**
-[{{page.pdf}}](https://abhikrc.com/pdf/CCS17.pdf)
-<br>
-_Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury_
-<br>
-24th ACM Conference on Computer and Communications Security (CCS), 2017.
-
-**Smart Greybox Fuzzing**
-[{{page.pdf}}](https://abhikrc.com/pdf/TSE19AFLSmart.pdf)
-&nbsp;[{{page.news}}](https://www.theregister.co.uk/2018/11/28/better_fuzzer_aflsmart/)
-&nbsp;[{{page.news}}](https://www.securityweek.com/researchers-introduce-smart-greybox-fuzzing)
-<br>
-_Van-Thuan Pham, Marcel Böhme, Andrew E. Santosa, Alexandru Razvan Caciulescu, Abhik Roychoudhury_
-<br>
-IEEE Transactions on Software Engineering (TSE), 47(9), 2021.
-
-**Linear-time Temporal Logic guided Greybox Fuzzing**
-[{{page.pdf}}](https://abhikrc.com/pdf/ICSE22-LTLFuzz.pdf)
-<br>
-_Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury_
-<br>
-IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022.
-
-**Fuzzing: Challenges and Reflections**
-[{{page.pdf}}](https://abhikrc.com/pdf/IEEE-SW-Fuzzing.pdf)
-<br>
-_Marcel Böhme, Cristian Cadar, Abhik Roychoudhury_
-<br>
-IEEE Software, 38(3), 2021.
-
----
-<br>
 ### Recent Publications
 
 **Large Language Model guided Protocol Fuzzing**
@@ -99,4 +58,46 @@ Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
 _Jinsheng Ba, Manuel Rigger_
 <br>
 arxiv, Posted 2023.
+
+### Key Works
+
+**Coverage-based Greybox Fuzzing as Markov Chain**
+[{{page.pdf}}](http://www.comp.nus.edu.sg/~abhik/pdf/CCS16.pdf)
+<br>
+_Marcel Böhme, Van Thuan Pham, Abhik Roychoudhury_
+<br>
+23rd ACM Conference on Computer and Communications Security (CCS), 2016.
+
+**Directed Greybox Fuzzing**
+[{{page.pdf}}](https://abhikrc.com/pdf/CCS17.pdf)
+<br>
+_Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury_
+<br>
+24th ACM Conference on Computer and Communications Security (CCS), 2017.
+
+**Smart Greybox Fuzzing**
+[{{page.pdf}}](https://abhikrc.com/pdf/TSE19AFLSmart.pdf)
+&nbsp;[{{page.news}}](https://www.theregister.co.uk/2018/11/28/better_fuzzer_aflsmart/)
+&nbsp;[{{page.news}}](https://www.securityweek.com/researchers-introduce-smart-greybox-fuzzing)
+<br>
+_Van-Thuan Pham, Marcel Böhme, Andrew E. Santosa, Alexandru Razvan Caciulescu, Abhik Roychoudhury_
+<br>
+IEEE Transactions on Software Engineering (TSE), 47(9), 2021.
+
+**Linear-time Temporal Logic guided Greybox Fuzzing**
+[{{page.pdf}}](https://abhikrc.com/pdf/ICSE22-LTLFuzz.pdf)
+<br>
+_Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury_
+<br>
+IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022.
+
+**Fuzzing: Challenges and Reflections**
+[{{page.pdf}}](https://abhikrc.com/pdf/IEEE-SW-Fuzzing.pdf)
+<br>
+_Marcel Böhme, Cristian Cadar, Abhik Roychoudhury_
+<br>
+IEEE Software, 38(3), 2021.
+
+---
+<br>
 
