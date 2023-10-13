@@ -26,9 +26,12 @@ We summarize the open challenges and opportunities for fuzzing and symbolic exec
 <br>
 
 
-<img src="{{ 'images/nrf_logo.png' | relative_url }}" width="250" alt="Fuzzing" style="float:left; margin: 0px 30px 15px 0px;" />
+<img src="{{ 'images/nrf_logo.png' | relative_url }}" width="120" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
+<img src="{{ 'images/csa-logo.jpg' | relative_url }}" width="120" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
 
-Our research in **fuzz testing** is funded with a grant from **National Research Foundation (NRF) Cybersecurity R&D**, (2023-27).
+<br>
+
+This research is supported by the **National Research Foundation, Singapore**, and **Cyber Security Agency of Singapore** under its National Cybersecurity R&D Programme (Fuzz Testing NRF-NCR25-Fuzz-0001). Any opinions, findings and conclusions, or recommendations expressed in this material are those of the author(s) and do not reflect the views of National Research Foundation, Singapore, and Cyber Security Agency of Singapore.
 
 <br>
 
