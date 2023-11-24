@@ -7,7 +7,7 @@ download: <i class="fa fa-download"></i>
 pdf: <i class="fa fa-file-pdf-o"></i>
 ---
 
-<img src="{{ 'images/fuzzing_overview.jpg' | relative_url }}" width="200" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
+<img src="{{ 'images/apr_logo_transparent.png' | relative_url }}" width="200" alt="Fuzzing" style="float:left; margin: 0px 15px 0px 0px;" />
 
 Software almost always has vulnerabilities. Many of these cause serious problems such as software crash and leaking sensitive user information. To fix bugs, software engineers have been fighting an endless battle with bugs. To date, the most known mechanism for testing against security vulnerabilities is grey-box fuzz testing (fuzzing) — a proven and practical bug detection methodology. At its core, fuzz testing uses a biased random search to uncover inputs that are likely to cause the program to misbehave (e.g., crash), thereby allowing bugs to be discovered and fixed before potential exploitation.  In recent years, most software vulnerabilities are found using fuzz testing. Our research program seeks to build next generation fuzz testing technologies, specifically in the light of supply-chain attacks witnessed recently.
 
