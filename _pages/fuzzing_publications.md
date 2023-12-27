@@ -93,19 +93,19 @@ _Van-Thuan Pham, Marcel Böhme, Andrew E. Santosa, Alexandru Razvan Caciulescu, 
 <br>
 IEEE Transactions on Software Engineering (TSE), 47(9), 2021.
 
-**Linear-time Temporal Logic guided Greybox Fuzzing**
-[{{page.pdf}}](https://abhikrc.com/pdf/ICSE22-LTLFuzz.pdf)
-<br>
-_Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury_
-<br>
-IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022.
-
 **Fuzzing: Challenges and Reflections**
 [{{page.pdf}}](https://abhikrc.com/pdf/IEEE-SW-Fuzzing.pdf)
 <br>
 _Marcel Böhme, Cristian Cadar, Abhik Roychoudhury_
 <br>
 IEEE Software, 38(3), 2021.
+
+**Linear-time Temporal Logic guided Greybox Fuzzing**
+[{{page.pdf}}](https://abhikrc.com/pdf/ICSE22-LTLFuzz.pdf)
+<br>
+_Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury_
+<br>
+IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022.
 
 
 
