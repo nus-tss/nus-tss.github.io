@@ -63,13 +63,6 @@ arxiv, Posted 2023.
 
 ### Key Works
 
-**Finding bugs in database systems via query partitioning**
-[{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
-<br>
-_Manuel Rigger, Zhendong Su_
-<br>
-Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
-
 **Coverage-based Greybox Fuzzing as Markov Chain**
 [{{page.pdf}}](http://www.comp.nus.edu.sg/~abhik/pdf/CCS16.pdf)
 <br>
@@ -83,6 +76,13 @@ _Marcel Böhme, Van Thuan Pham, Abhik Roychoudhury_
 _Marcel Böhme, Van Thuan Pham, Manh-Dung Nguyen, Abhik Roychoudhury_
 <br>
 24th ACM Conference on Computer and Communications Security (CCS), 2017.
+
+**Finding bugs in database systems via query partitioning**
+[{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
+<br>
+_Manuel Rigger, Zhendong Su_
+<br>
+Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
 
 **Smart Greybox Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/TSE19AFLSmart.pdf)
@@ -106,6 +106,8 @@ IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022.
 _Marcel Böhme, Cristian Cadar, Abhik Roychoudhury_
 <br>
 IEEE Software, 38(3), 2021.
+
+
 
 
 
