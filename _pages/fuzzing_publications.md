@@ -17,6 +17,12 @@ news: <i class="fa fa-newspaper-o"></i>
 
 ### Recent Publications
 
+**Greybox Fuzzing for Concurrency Testing**
+<br>
+Dylan Wolff, Shi Zheng, Gregory Duck, Umang Mathur, Abhik Roychoudhury
+<br>
+29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024.
+
 **Large Language Model guided Protocol Fuzzing**
 [{{page.pdf}}](https://abhikrc.com/pdf/NDSS24.pdf)
 <br>
@@ -45,13 +51,6 @@ _Jinsheng Ba, Manuel Rigger_
 <br>
 IEEE/ACM International Conference on Software Engineering (ICSE), 2023
 
-**Finding bugs in database systems via query partitioning**
-[{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
-<br>
-_Manuel Rigger, Zhendong Su_
-<br>
-Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
-
 **Finding Performance Issues in Database Engines via Cardinality Estimation Testing**
 [{{page.pdf}}](https://arxiv.org/pdf/2306.00355.pdf)
 <br>
@@ -63,6 +62,13 @@ arxiv, Posted 2023.
 <br>
 
 ### Key Works
+
+**Finding bugs in database systems via query partitioning**
+[{{page.pdf}}](https://dl.acm.org/doi/abs/10.1145/3428279)
+<br>
+_Manuel Rigger, Zhendong Su_
+<br>
+Proceedings of the ACM on Programming Languages (OOPSLA), 2020.
 
 **Coverage-based Greybox Fuzzing as Markov Chain**
 [{{page.pdf}}](http://www.comp.nus.edu.sg/~abhik/pdf/CCS16.pdf)
