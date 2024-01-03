@@ -17,9 +17,21 @@ news: <i class="fa fa-newspaper-o"></i>
 
 ### Recent Publications
 
+**Finding Performance Issues in Database Engines via Cardinality Estimation Testing**
+<br>
+_Jinsheng Ba, Manuel Rigger_
+<br>
+Proceedings of the 46th International Conference on Software Engineering 2024, Lisbon, Portugal
+
+**Optimistic Prediction of Synchronization-Reversal Data Races**
+<br>
+_Zheng Shi, Umang Mathur, Andreas Pavlogiannis_
+<br>
+Proceedings of the 46th International Conference on Software Engineering, Lisbon, Portugal
+
 **Greybox Fuzzing for Concurrency Testing**
 <br>
-Dylan Wolff, Shi Zheng, Gregory Duck, Umang Mathur, Abhik Roychoudhury
+_Dylan Wolff, Shi Zheng, Gregory Duck, Umang Mathur, Abhik Roychoudhury_
 <br>
 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024.
 
