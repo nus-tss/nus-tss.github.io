@@ -63,13 +63,6 @@ _Jinsheng Ba, Manuel Rigger_
 <br>
 IEEE/ACM International Conference on Software Engineering (ICSE), 2023
 
-**Finding Performance Issues in Database Engines via Cardinality Estimation Testing**
-[{{page.pdf}}](https://arxiv.org/pdf/2306.00355.pdf)
-<br>
-_Jinsheng Ba, Manuel Rigger_
-<br>
-arxiv, Posted 2023.
-
 ---
 <br>
 
