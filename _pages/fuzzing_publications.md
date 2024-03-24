@@ -30,6 +30,7 @@ _Zheng Shi, Umang Mathur, Andreas Pavlogiannis_
 Proceedings of the 46th International Conference on Software Engineering, Lisbon, Portugal
 
 **Greybox Fuzzing for Concurrency Testing**
+[{{page.pdf}}](https://abhikrc.com/pdf/ASPLOS24.pdf)
 <br>
 _Dylan Wolff, Shi Zheng, Gregory Duck, Umang Mathur, Abhik Roychoudhury_
 <br>
