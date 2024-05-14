@@ -23,12 +23,12 @@ download: <i class="fa fa-download"></i>
         <div class="news-details">
         ICSE 2024, the 46th International Conference on Software Engineering, was held in Lisbon after about three years of discussions and planning led by Abhik and Margaret-Anne Storey. <br>
         <br>
-        ~1050 submissions, 234 accepted papers, 200+ PC members. 12 area chairs spanning software engineering, 2 PC chairs (**Abhik Roychoudhury** and Margaret-Anne Storey)</a>.
+        ~1050 submissions, 234 accepted papers, 200+ PC members. 12 area chairs spanning software engineering, 2 PC chairs (<b>Abhik Roychoudhury</b> and Margaret-Anne Storey).
         </div>
     </div>
-    <div class="col-sm-4 mx-auto my-auto" align="center">      
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+    <img src="{{ 'images/news/ICSE24_17_RE0306.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />         
     <img src="{{ 'images/news/ICSE24_19_RE1657.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />
-    <img src="{{ 'images/news/ICSE24_17_RE0306.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />   
     </div>
 </div>
 <br>
