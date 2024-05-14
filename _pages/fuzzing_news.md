@@ -6,13 +6,32 @@ permalink: /fuzzing/news/index.html
 pdf: <i class="fa fa-file-pdf-o"></i>
 download: <i class="fa fa-download"></i>
 ---
-
-* July  2023: <a href="#july-2023">New research project funded!</a>
+* May, 2024: <a href="#may-2024">Abhik Roychoudhury has co-chaired ICSE 2024 in Lisbon, the premier International Conference on Software Engineering.</a>
+* July, 2023: <a href="#july-2023">New research project funded!</a>
 * April, 2022: <a href="#april-2022">Abhik Roychoudhury honored with IEEE New Directions Award</a>
 
 
 <br>
 
+<div id='may-2024'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">Abhik Roychoudhury has co-chaired ICSE 2024 in Lisbon, the premier International Conference on Software Engineering.</div>
+        <div class="news-time">May, 2024</div>
+        <div class="news-details">
+        ICSE 2024, the 46th International Conference on Software Engineering, was held in Lisbon after about three years of discussions and planning led by Abhik and Margaret-Anne Storey. <br>
+        <br>
+        ~1050 submissions, 234 accepted papers, 200+ PC members. 12 area chairs spanning software engineering, 2 PC chairs (**Abhik Roychoudhury** and Margaret-Anne Storey)</a>.
+        </div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">      
+    <img src="{{ 'images/news/ICSE24_19_RE1657.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />
+    <img src="{{ 'images/news/ICSE24_17_RE0306.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />   
+    </div>
+</div>
+<br>
 
 <div id='july-2023'/>
 ---
