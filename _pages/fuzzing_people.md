@@ -97,7 +97,6 @@ permalink: /fuzzing/people/index.html
 
 <hr>
 
-<!--
 <div class="person">
   <div class="profile">
     <img class="profile-img" src="{{ 'images/people/dirk_beyer.jpg' | relative_url }}"/>
@@ -112,7 +111,6 @@ permalink: /fuzzing/people/index.html
 </div>
 
 <hr>
--->
 
 <div class="person">
   <div class="profile">
