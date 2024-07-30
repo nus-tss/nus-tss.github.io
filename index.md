@@ -37,6 +37,9 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 ## Recent News
 
 
+* August, 2024: We thank Oracle for generous gift towards long-term NUS-Oracle research in cybersecurity.
+* April, 2024: <a href = "https://autocoderover.dev">AutoCodeRover</a> our AI software engineer catches attention.
+* April, 2024: Abhik Roychoudhury chairs <a href= "https://conf.researchr.org/home/icse-2024">ICSE 2024</a>.
 * August, 2023: <a href="news/#august-2023">Yannic Noller joins SUTD as Assistant Professor.</a>
 * July, 2023: <a href="/fuzzing/news/#july-2023">New research program on fuzz testing launched!</a>
 * June, 2023: <a href="news/#june-2023">New group webpage launched!</a>
