@@ -17,6 +17,14 @@ news: <i class="fa fa-newspaper-o"></i>
 
 ### Recent Publications
 
+**Program Environment Fuzzing**
+[{{page.pdf}}](https://arxiv.org/pdf/2404.13951)
+<br>
+_Ruijie Meng, Gregory Duck, Abhik Roychoudhury_
+<br>
+31st ACM Conference on Computer and Communications Security (CCS), 2024.
+
+
 **Finding Performance Issues in Database Engines via Cardinality Estimation Testing**
 <br>
 _Jinsheng Ba, Manuel Rigger_
