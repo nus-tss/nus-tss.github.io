@@ -47,7 +47,58 @@ permalink: /team/index.html
 </div>
 {% endif %}
 
-## Research Staff
+## Current PhD Students
+
+{% assign number_printed = 0 %}
+{% for member in site.data.team.student %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+
+<div class="row row-buffer">
+{% endif %}
+
+<div class="col-sm-6 clearfix column-buffer">
+  <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
+  <h4>
+    {% if member.website %}
+      <a href="{{ member.website }}" target="_blank">{{ member.name }}</a>
+    {% else %}
+      <a>{{ member.name }}</a>
+    {% endif %}
+  </h4>
+  <i>Joined {{ member.joined }} ({{ member.role }}) </i>
+  <br>
+
+  <ul class="team-info">
+  {% if member.topic %}
+  <li> {{ member.topic }}. </li>
+  {% endif %}
+  {% if member.coadvisor %}
+  <li> Co-advised with {{ member.coadvisor }}. </li>
+  {% endif %}
+  </ul>
+
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+
+</div>
+{% endif %}
+
+
+## Current Postdocs and Research Staff
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team.staff %}
@@ -97,55 +148,6 @@ permalink: /team/index.html
 </div>
 {% endif %}
 
-## PhD Students
-
-{% assign number_printed = 0 %}
-{% for member in site.data.team.student %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-
-<div class="row row-buffer">
-{% endif %}
-
-<div class="col-sm-6 clearfix column-buffer">
-  <img class="img-responsive team-pic" src="{{ site.url }}{{ site.baseurl }}/images/team/individuals/{{ member.photo }}"  />
-  <h4>
-    {% if member.website %}
-      <a href="{{ member.website }}" target="_blank">{{ member.name }}</a>
-    {% else %}
-      <a>{{ member.name }}</a>
-    {% endif %}
-  </h4>
-  <i>Joined {{ member.joined }} ({{ member.role }}) </i>
-  <br>
-
-  <ul class="team-info">
-  {% if member.topic %}
-  <li> {{ member.topic }}. </li>
-  {% endif %}
-  {% if member.coadvisor %}
-  <li> Co-advised with {{ member.coadvisor }}. </li>
-  {% endif %}
-  </ul>
-
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
 
 ## PhD Alumni
 
