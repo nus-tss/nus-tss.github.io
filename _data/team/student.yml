@@ -24,21 +24,21 @@
   photo: yuntong.jpg
   joined: August 2021
   role: PhD student and RA
-  topic: Combination of Fuzzing and Program Repair (tentative topic)
+  topic: Combination of Fuzzing and Program Repair with Specifications
   website: https://yuntongzhang.github.io/
 
 - name: Dylan Wolff
   photo: dylan.jpeg
   joined: August 2021
   role: PhD student
-  topic: Concurrent system Fuzzing (tentative topic)
+  topic: Concurrent system Fuzzing
   website: https://dylanjwolff.com/
 
 - name: Haifeng Ruan
   photo: haifeng.jpg
   joined: August 2021
   role: PhD student
-  topic:  Interactive Program Repair (tentative topic)
+  topic:  Interactive Program Repair with LLMs
 
 - name: Martin Mirchev
   photo: martin-2.jpg
@@ -59,3 +59,4 @@
   photo: zhaohuan.jpeg
   joined: August 2023
   role: PhD student and RA
+  coadvisor: Umang Mathur
