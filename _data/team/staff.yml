@@ -11,14 +11,21 @@
 - name: Ridwan Shariffdeen
   photo: ridwan.jpg
   role: Research Fellow
-  info: Joined January 2023 as postdoc.
-  topic: Software Vulnerability Repair.
+  info: PhD NUS
   website: https://rshariffdeen.com/
 
 - name: Jiawei Wang
   photo: jiawei.jpg
   role: Research Fellow
+  info: PhD Monash
   website: https://scholar.google.com/citations?user=jxAaupQAAAAJ&hl=en
+
+- name: Zhengxiong Luo
+  photo: zhengxiong.jpg
+  role: Research Fellow
+  info: PhD Tsinghua
+  website: https://fouzhe.github.io/
+
 
 - name: Guanlin Wang
   photo: guanlin.jpeg
