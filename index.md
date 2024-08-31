@@ -12,8 +12,8 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
     	Lunch in February 2023.
   </div>
   <div class="col-sm">
-    <img src="/images/team/group_may2022.jpg" alt="Group Photo in May 2022"/>
-    	A recent group photograph taken in 2022 May.
+    <img src="/images/team/tss.jpg" alt="Group Photo in Aug 2024"/>
+    	Photo with students after receiving inaugural NUS Outstanding Graduate Mentor Award 2024.
   </div>
 </div>
 
