@@ -3,7 +3,7 @@
   graduated: 2021
   thesis-title: Over-fitting in Program Repair and Synthesis
   thesis-link: https://abhikrc.com/Students/GaoXiang.pdf
-  next: Associate Professor, Beihang University (from 2022)
+  next: Associate Professor, Beihang University
   website: https://gaoxiang9430.github.io/
 
 - name: Sergey Mechtaev
@@ -50,7 +50,7 @@
   graduated: 2013
   thesis-title: Time-predictable Execution of Embedded Software on Multi-core Platforms
   thesis-link: https://abhikrc.com/Students/Sudipta.pdf
-  next: Associate Professor at Singapore University of Technology and Design (SUTD) since 2017
+  next: Associate Professor at Singapore University of Technology and Design (SUTD) 
   award: Presidential Graduate Fellowship
   website: https://sudiptac.bitbucket.io/
 
@@ -76,7 +76,7 @@
   graduated: 2010
   thesis-title: Model-driven timing analysis of embedded software
   thesis-link: https://abhikrc.com/Students/JuLei.pdf
-  next: Moved to Associate Professor at Shandong University, China
+  next: Associate Professor at Shandong University, China
   award: Faculty Research Achievement Award
   coadvisor: Samarjit Chakraborty
   website: https://faculty.sdu.edu.cn/julei/en/index/591206/list/index.htm
@@ -111,6 +111,6 @@
   graduated: 2006
   thesis-title: Micro-architectural Modeling for Timing Analysis of Embedded Software
   thesis-link: https://www.comp.nus.edu.sg/~abhik/Students/Xianfeng.pdf
-  next: Moved to Peking University, currently Associate Professor
+  next: Moved to Peking University -> currently Assoc Prof. at Macau University of Science and Tech.
   award: Dean's Graduate Award
   coadvisor: Tulika Mitra
