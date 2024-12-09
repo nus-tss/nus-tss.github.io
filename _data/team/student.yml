@@ -42,6 +42,7 @@
   photo: ali.png
   joined: January 2023
   role: PhD student, CNRS CREATE
+  coadvisor: Blaise Genest, CNRS
 
 - name: Robbie Lin Peisen
   photo: peisen.jpg
@@ -53,3 +54,9 @@
   joined: August 2023
   role: PhD student and RA
   coadvisor: Umang Mathur
+
+- name: Jiacheng Xu
+  photo: jxu.png
+  joined: Sep 2024
+  role: Visiting student from Zhejiang University
+  coadvisor: Jialin Li
