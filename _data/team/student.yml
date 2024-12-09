@@ -24,7 +24,7 @@
   photo: dylan.jpeg
   joined: August 2021
   role: PhD student
-  topic: Concurrent system Fuzzing
+  topic: Fuzzing of Concurrent Systems Software
   website: https://dylanjwolff.com/
 
 - name: Haifeng Ruan
@@ -37,13 +37,15 @@
   photo: martin-2.jpg
   joined: August 2022
   role: PhD student
+  topic: High Assurance Automatic Programming
 
 - name: Ali El-Husseini
   photo: ali.png
   joined: January 2023
   role: PhD student, CNRS CREATE
   coadvisor: Blaise Genest, CNRS
-
+  topic: Secure Code Generation from Foundation Models
+  
 - name: Robbie Lin Peisen
   photo: peisen.jpg
   joined: August 2023
@@ -54,9 +56,11 @@
   joined: August 2023
   role: PhD student and RA
   coadvisor: Umang Mathur
+  topic: Mixing Concurrency Fuzzing with traditional Concurrency Testing 
 
 - name: Jiacheng Xu
   photo: jxu.png
   joined: Sep 2024 
   role: Visiting PhD student from Zhejiang University
+  topic: Kernel Fuzzing
 
