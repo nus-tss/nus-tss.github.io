@@ -1,17 +1,17 @@
 
-- name: Liu Yu
-  photo: liuyu.jpg
-  joined: August 2020
-  role: PhD student
-  topic: Analysis guided Program Repair
-  coadvisor: Sergey Mechtaev
-
 - name: Ruijie Meng
   photo: ruijie.jpg
   joined: August 2020
   role: PhD student
   topic: Reactive System Fuzzing
   website: https://mengrj.github.io/
+
+- name: Liu Yu
+  photo: liuyu.jpg
+  joined: August 2020
+  role: PhD student
+  topic: Analysis guided Program Repair
+  coadvisor: Sergey Mechtaev
 
 - name: Yuntong Zhang
   photo: yuntong.jpg
