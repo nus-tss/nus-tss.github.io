@@ -10,14 +10,14 @@
   photo: liuyu.jpg
   joined: August 2020
   role: PhD student
-  topic: Analysis guided Program Repair
+  topic: Static Analysis guided Program Repair
   coadvisor: Sergey Mechtaev
 
 - name: Yuntong Zhang
   photo: yuntong.jpg
   joined: August 2021
   role: PhD student and RA
-  topic: Combination of Fuzzing and Program Repair with Specifications
+  topic: Specification Extraction in Automatic Programming
   website: https://yuntongzhang.github.io/
 
 - name: Dylan Wolff
@@ -31,13 +31,13 @@
   photo: haifeng.jpg
   joined: August 2021
   role: PhD student
-  topic:  Interactive Program Repair with LLMs
+  topic: Trusted Automatic Programming 
 
 - name: Martin Mirchev
   photo: martin-2.jpg
   joined: August 2022
   role: PhD student
-  topic: High Assurance Automatic Programming
+  topic: High Assurance Automatic Programming by combining Verification
 
 - name: Ali El-Husseini
   photo: ali.png
