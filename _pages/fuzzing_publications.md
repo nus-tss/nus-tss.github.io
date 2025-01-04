@@ -35,7 +35,7 @@ _Huan Zhao, Dylan Wolff, Umang Mathur, Abhik Roychoudhury_
 <br>
 _Suyang Zhong, Manuel Rigger_
 <br>
-Proc. ACM Manag. Data (SIGMOD), Berlin, Germany.
+Proc. ACM Manag. Data (SIGMOD), Berlin, Germany, 2025.
 
 **Program Environment Fuzzing**
 [{{page.pdf}}](https://arxiv.org/pdf/2404.13951)
