@@ -17,6 +17,26 @@ news: <i class="fa fa-newspaper-o"></i>
 
 ### Recent Publications
 
+
+**Detecting Python Malware in the Software Supply Chain with Program Analysis**
+<br>
+_R Shariffdeen, B Hassanshahi, M Mirchev, A El Husseini, Abhik Roychoudhury_
+<br>
+47th International Conference on Software Engineering (ICSE) 2025, SEIP track.
+
+
+ **Selectively Uniform Concurrency Testing**
+<br>
+_Huan Zhao, Dylan Wolff, Umang Mathur, Abhik Roychoudhury_
+<br>
+30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2025.
+
+**Understanding and Reusing Test Suites Across Database Systems**
+<br>
+_Suyang Zhong, Manuel Rigger_
+<br>
+Proc. ACM Manag. Data (SIGMOD), Berlin, Germany.
+
 **Program Environment Fuzzing**
 [{{page.pdf}}](https://arxiv.org/pdf/2404.13951)
 <br>
@@ -29,7 +49,7 @@ _Ruijie Meng, Gregory Duck, Abhik Roychoudhury_
 <br>
 _Jinsheng Ba, Manuel Rigger_
 <br>
-Proceedings of the 46th International Conference on Software Engineering 2024, Lisbon, Portugal
+Proceedings of the 46th International Conference on Software Engineering 2024, Lisbon, Portugal.
 
 **Optimistic Prediction of Synchronization-Reversal Data Races**
 <br>
