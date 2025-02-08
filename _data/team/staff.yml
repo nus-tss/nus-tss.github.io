@@ -1,5 +1,8 @@
-
-
+- name: Huiyan Wang
+  photo: why.jpg
+  role: Research Assistant Professor
+  info: Visiting from Nanjing U.
+  website: http://www.why.ink:8080/
 
 - name: Yahui Song
   photo: yahui.jpg
@@ -10,13 +13,13 @@
 - name: Jiawei Wang
   photo: jiawei.jpg
   role: Research Fellow
-  info: PhD Monash
+  info: PhD Monash U.
   website: https://scholar.google.com/citations?user=jxAaupQAAAAJ&hl=en
 
 - name: Zhengxiong Luo
   photo: zhengxiong.jpg
   role: Research Fellow
-  info: PhD Tsinghua
+  info: PhD Tsinghua U.
   website: https://fouzhe.github.io/
 
 - name: Leonhard Applis
@@ -25,6 +28,11 @@
   info: PhD TU Delft
   website: https://github.com/lapplislazuli
 
+- name: Sungmin Kang
+  photo: sungmin.jpg
+  role: Research Fellow (from March 2025)
+  info: PhD KAIST Korea
+  website: https://smkang96.github.io/
 
 - name: Guanlin Wang
   photo: guanlin.jpeg
