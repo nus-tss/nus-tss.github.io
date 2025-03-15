@@ -37,6 +37,8 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 ## Recent News
 
 
+* Mar 2025: Our PhD alumni <a href="https://www.shinhwei.com/">Shin Hwei Tan</a> is the recipient of prestigious ACM-W Rising Star Award.
+* Feb 2025: SonarSource SA <b><a href ="https://www.sonarsource.com/company/press-releases/sonar-acquires-autocoderover-to-supercharge-developers-with-ai-agents/">acquires AutoCodeRover</a></b>, NUS spinoff on AI for coding.
 * August, 2024: We thank Oracle for generous gift towards long-term NUS-Oracle research in cybersecurity.
 * April, 2024: <a href = "https://autocoderover.dev">AutoCodeRover</a> our AI software engineer catches attention.
 * April, 2024: Abhik Roychoudhury chairs <a href= "https://conf.researchr.org/home/icse-2024">ICSE 2024</a>.
