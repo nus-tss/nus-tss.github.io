@@ -24,6 +24,16 @@
   next: Associate Professor, Beihang University
   website: https://gaoxiang9430.github.io/
 
+- name: Shin Hwei Tan
+  photo: shinhwei.jpg
+  graduated: 2018
+  thesis-title: Design of repair operators for automated program repair
+  thesis-link: https://abhikrc.com/Students/ShinHwei.pdf
+  next: Associate Professor (Gina Cody Research Chair), Concordia University, Canada
+  award: <b>ACM-W Rising Star Award 2025, given to one woman faculty in Computing annually</b>
+  website: http://www.shinhwei.com/
+
+
 - name: Sergey Mechtaev
   photo: sergey.jpg
   graduated: 2018
@@ -33,13 +43,6 @@
   award: <b>ACM SIGSOFT Outstanding Dissertation Award 2018, Best PhD thesis 2018</b>
   website: https://mechtaev.com/
 
-- name: Shin Hwei Tan
-  photo: shinhwei.jpg
-  graduated: 2018
-  thesis-title: Design of repair operators for automated program repair
-  thesis-link: https://abhikrc.com/Students/ShinHwei.pdf
-  next: Associate Professor (Gina Cody Research Chair), Concordia University, Canada
-  website: http://www.shinhwei.com/
 
 - name: Van Thuan Pham
   photo: thuan.jpg
