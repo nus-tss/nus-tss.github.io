@@ -30,15 +30,17 @@
 
 - name: Sungmin Kang
   photo: sungmin.jpg
-  role: Research Fellow (from March 2025)
+  role: Research Fellow
   info: PhD KAIST Korea
   website: https://smkang96.github.io/
 
-- name: Guanlin Wang
-  photo: guanlin.jpeg
-  role: Research Assistant
+- name: Haoxin Tu
+  photo: haoxin.png
+  role: Research Fellow
+  info: PhD Singapore Management University
+  website: https://haoxintu.github.io/
 
 - name: Mehtab Zafar
   photo: mehtab.jpeg
-  role: Research Assistant
+  role: Research Assistant (Masters student)
 
