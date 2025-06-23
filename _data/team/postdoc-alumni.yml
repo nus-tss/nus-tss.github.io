@@ -23,10 +23,12 @@
   next: Professor at Ruhr University Bochum, Germany
   website: https://yannicnoller.github.io
 
-- name: Umair Z. Ahmed
-  photo: umair.jpg
-  role-nus: Research Fellow
-  website: https://www.linkedin.com/in/umairzahmed/
+- name: Omar Al-Bataineh
+  photo: omar-image.jpg
+  role-nus: Senior Research Fellow
+  phd: University of Western Australia
+  website: https://omarbat92.github.io/omar-website/
+  next: Gran Sasso Science Institute Italy 
 
 - name: Zhen Dong
   photo: zhendong.jpg
