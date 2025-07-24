@@ -4,12 +4,6 @@
   info: Visiting from Nanjing U.
   website: http://www.why.ink:8080/
 
-- name: Yahui Song
-  photo: yahui.jpg
-  role: Research Fellow, Co-advised with Wei Ngan Chin.
-  info: PhD NUS
-  website: https://www.comp.nus.edu.sg/~yahuis/
-
 - name: Jiawei Wang
   photo: jiawei.jpg
   role: Research Fellow
@@ -28,17 +22,23 @@
   info: PhD TU Delft
   website: https://github.com/lapplislazuli
 
+- name: Haoxin Tu
+  photo: haoxin.png
+  role: Research Fellow
+  info: PhD Singapore Management University
+  website: https://haoxintu.github.io/
+
 - name: Sungmin Kang
   photo: sungmin.jpg
   role: Research Fellow
   info: PhD KAIST Korea
   website: https://smkang96.github.io/
 
-- name: Haoxin Tu
-  photo: haoxin.png
-  role: Research Fellow
-  info: PhD Singapore Management University
-  website: https://haoxintu.github.io/
+- name: I.N.B. Yusuf
+  photo: yusuf.jpg
+  role: Research Fellow.
+  info: PhD SMU
+  website: https://imamnurby.github.io/
 
 - name: Mehtab Zafar
   photo: mehtab.jpeg
