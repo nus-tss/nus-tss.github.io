@@ -14,6 +14,16 @@
   next: Assistant Professor, TU Delft, Netherlands
   website: https://andrecostea.github.io/
 
+- name: Huiyan Wang
+  photo: why.jpg
+  role: Research Assistant Professor
+  info: Visiting from Nanjing U.
+  website: http://www.why.ink:8080/
+
+- name: Yahui Song
+  photo: yahui.jpg
+  role: Research Fellow, co-advised by Wei-Ngan Chin 
+  website: https://songyahui.github.io/
 
 - name: Yannic Noller
   photo: yannic.jpeg
