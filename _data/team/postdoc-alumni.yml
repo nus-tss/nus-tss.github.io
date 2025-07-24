@@ -16,13 +16,12 @@
 
 - name: Huiyan Wang
   photo: why.jpg
-  role: Research Assistant Professor
-  info: Visiting from Nanjing U.
+  role-nus: Research Assistant Professor
   website: http://www.why.ink:8080/
 
 - name: Yahui Song
   photo: yahui.jpg
-  role: Research Fellow, co-advised by Wei-Ngan Chin 
+  role-nus: Research Fellow, co-advised by Wei-Ngan Chin 
   website: https://songyahui.github.io/
 
 - name: Yannic Noller
