@@ -176,7 +176,7 @@ permalink: /fuzzing/people/index.html
     <div class="name"><a href="https://fouzhe.github.io/">Zhengxiong Luo</a></div>
     <div class="title">Research Fellow, NUS</div>
     <div class="bio">
-      <p>Zhengxiong received his PhD from Tsinghua University. He received the prestigious CCF Embedded System Outstanding Doctoral Dissertation Award. He is currently working on fuzzing approaches combined with agentic AI.</p>
+      <p>Zhengxiong received his PhD from Tsinghua University. He received the prestigious CCF Embedded System Outstanding Doctoral Dissertation Award. He has made significant contributions to protocol and stateful system fuzzing.</p>
     </div>
   </div>
 </div>
