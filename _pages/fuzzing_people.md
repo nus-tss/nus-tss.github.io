@@ -203,6 +203,22 @@ permalink: /fuzzing/people/index.html
 
 <div class="person">
   <div class="profile">
+    <img class="profile-img" src="{{ 'images/people/yuancheng.jpg' | relative_url }}"/>
+  </div>
+  <div class="description">
+    <div class="name"><a href="https://yuanchengjiang.github.io/">Yuancheng Jiang</a></div>
+    <div class="title">Research Associate and PhD student, NUS</div>
+    <div class="bio">
+      <p>
+Yuancheng Jiang is a Ph.D. candidate at the School of Computing, National University of Singapore, co-supervised by Prof. Zhenkai Liang, with a research focus on system security. He collaborates with Prof. Manuel Rigger on fuzz testing. Prior to his Ph.D. studies, he completed his Master’s degree at National University of Singapore and his Bachelor’s degree at Fudan University</p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="person">
+  <div class="profile">
     <img class="profile-img" src="{{ 'images/people/dylan.jpeg' | relative_url }}"/>
   </div>
   <div class="description">
