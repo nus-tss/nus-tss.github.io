@@ -170,15 +170,13 @@ permalink: /fuzzing/people/index.html
 
 <div class="person">
   <div class="profile">
-    <img class="profile-img" src="{{ 'images/people/greg.jpg' | relative_url }}"/>
+    <img class="profile-img" src="{{ 'images/people/luozx.jpg' | relative_url }}"/>
   </div>
   <div class="description">
-    <div class="name"><a href="https://www.comp.nus.edu.sg/~gregory/">Gregory J. Duck</a></div>
-    <div class="title">Research Assistant Professor, NUS</div>
+    <div class="name"><a href="https://fouzhe.github.io/">Zhengxiong Luo</a></div>
+    <div class="title">Research Fellow, NUS</div>
     <div class="bio">
-      <p>Gregory is a Research Assistant Professor at the <a href="https://nus.edu.sg/">National University of Singapore</a> and currently serves as the Assistant Director of the <a href="https://www.comp.nus.edu.sg/~nsoe-tss/">National Satellite of Excellence in Trustworthy Software Systems</a> (Singapore).</p>
-      <p>Previously, Gregory received his BSc (Mathematics), BEng (Software) and Phd (Computer Science) from the <a href="https://www.unimelb.edu.au/">University of Melbourne</a>. From 2011 Gregory works at the <a href="https://nus.edu.sg/">National University of Singapore</a>.</p>
-      <p>Gregory's research interests include: systems, security, binary rewriting, programming languages, constraint programming, functional programming and rewrite systems.</p>
+      <p>Zhengxiong received his PhD from Tsinghua University. He received the prestigious CCF Embedded System Outstanding Doctoral Dissertation Award. He is currently working on fuzzing approaches combined with agentic AI.</p>
     </div>
   </div>
 </div>
