@@ -17,6 +17,12 @@ news: <i class="fa fa-newspaper-o"></i>
 
 ### Recent Publications
 
+**Efficient Decrease-And-Conquer Linearizability Monitoring**
+<br>
+Zheng Han Lee, Umang Mathur
+<br>
+OOPSLA 2025
+
 
 **Detecting Python Malware in the Software Supply Chain with Program Analysis**
 <br>
