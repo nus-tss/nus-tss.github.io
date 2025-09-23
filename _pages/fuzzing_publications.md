@@ -19,7 +19,7 @@ news: <i class="fa fa-newspaper-o"></i>
 
 **Efficient Decrease-And-Conquer Linearizability Monitoring**
 <br>
-_Zheng Han Lee, Umang Mathur
+_Zheng Han Lee, Umang Mathur_
 <br>
 OOPSLA 2025
 
