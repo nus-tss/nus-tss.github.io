@@ -1,4 +1,18 @@
 
+- name: Ruijie Meng
+  photo: ruijie.jpg
+  graduated: 2025
+  next: Asst Prof in CISPA, Germany.
+  thesis-title: Reactive System Fuzzing
+  website: https://mengrj.github.io/
+
+- name: Liu Yu
+  photo: liuyu.jpg
+  joined: August 2020
+  role: PhD student -> Asst Prof., Chongqing University
+  topic: Static Analysis guided Program Repair
+  coadvisor: Sergey Mechtaev
+
 - name: Zhiyu Fan
   photo: zhiyu.jpeg
   graduated: 2025
@@ -7,15 +21,6 @@
   next: Senior Researcher, Microsoft Research Cambridge UK (joining)
   website: https://zhiyufan.github.io/
   coadvisor: Shin Hwei Tan
-
-
-
-- name: Liu Yu
-  photo: liuyu.jpg
-  graduated: 2025
-  next: Asst Prof., Chongqing University
-  thesis-title: Static Analysis guided Program Repair
-  coadvisor: Sergey Mechtaev
 
 - name: Ridwan Shariffdeen
   photo: ridwan.jpg
