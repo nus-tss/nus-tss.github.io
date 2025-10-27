@@ -3,7 +3,7 @@
   photo: yuntong.jpg
   joined: August 2021
   role: PhD student and RA
-  topic: Specifications in Automatic Programming
+  topic: Trusted Automatic Programming - AutoCodeRover
   website: https://yuntongzhang.github.io/
 
 - name: Dylan Wolff
@@ -17,15 +17,15 @@
   photo: haifeng.jpg
   joined: August 2021
   role: PhD student
-  topic: Trusted Automatic Programming
+  topic: Specifications in Automatic Programming - SpecRover
   website: https://haifengruan.com/
 
 - name: Martin Mirchev
   photo: martin-2.jpg
   joined: August 2022
   role: PhD student
-  topic: High Assurance Automatic Programming by combining Verification
-
+  topic: From Coding Agents to Production 
+  
 - name: Ali El-Husseini
   photo: ali.png
   joined: January 2023
