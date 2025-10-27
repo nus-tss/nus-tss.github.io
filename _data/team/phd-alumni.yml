@@ -9,10 +9,10 @@
 
 - name: Liu Yu
   photo: liuyu.jpg
-  joined: August 2020
-  role: PhD student -> Asst Prof., Chongqing University
+  graduated: 2025
+  next: Asst Prof., Chongqing University
   topic: Static Analysis guided Program Repair
-  coadvisor: Sergey Mechtaev
+  
 
 - name: Zhiyu Fan
   photo: zhiyu.jpeg
@@ -21,7 +21,7 @@
   thesis-link: https://abhikrc.com/Students/Zhiyu.pdf
   next: Senior Researcher, Microsoft Research Cambridge UK (joining)
   website: https://zhiyufan.github.io/
-  coadvisor: Shin Hwei Tan
+  
 
 - name: Ridwan Shariffdeen
   photo: ridwan.jpg
