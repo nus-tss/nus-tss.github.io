@@ -58,14 +58,14 @@
 
   - name: Zhiyuan Pan
   photo: zhiyuanpan.png
-  role: Research Associate
-  info: Visiting PhD student from Zhejiang University
+  joined: Sep 2025
+  role: Visiting PhD student from Zhejiang University
   website: https://pan2013e.github.io/
 
 - name: Jing Liu
   photo:  jing.jpeg
-  role: Research Associate
-  info: Visiting PhD student from Max-Plack Institute
+  joined: Dec 2025
+  role: Visiting PhD student from Max-Plack Institute
   website: https://jing6.netlify.app/
 
   
