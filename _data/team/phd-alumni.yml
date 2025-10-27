@@ -8,6 +8,15 @@
   website: https://zhiyufan.github.io/
   coadvisor: Shin Hwei Tan
 
+
+
+- name: Liu Yu
+  photo: liuyu.jpg
+  graduated: 2025
+  next: Asst Prof., Chongqing University
+  thesis-title: Static Analysis guided Program Repair
+  coadvisor: Sergey Mechtaev
+
 - name: Ridwan Shariffdeen
   photo: ridwan.jpg
   graduated: 2022
