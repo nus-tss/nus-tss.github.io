@@ -21,7 +21,7 @@
 - name: Haoxin Tu
   photo: haoxin.png
   role: Research Fellow
-  info: PhD Singapore Management University
+  info: PhD SMU
   website: https://haoxintu.github.io/
 
 - name: Sungmin Kang
@@ -44,3 +44,10 @@
   photo: zhiyuanpan.png
   role: Research Associate
   info: Visiting PhD student from Zhejiang University
+  website: https://pan2013e.github.io/
+
+- name: Jing Liu
+  photo:  jing.jpeg
+  role: Research Associate
+  info: Visiting PhD student from Max-Plack Institute
+  website: https://jing6.netlify.app/
