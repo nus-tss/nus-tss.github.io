@@ -6,6 +6,7 @@ permalink: /news/index.html
 
 ## News
 
+* June 2025: <a href="#june-2025">Abhik becomes ACM Fellow.</a>
 * August, 2023: <a href="#august-2023">Yannic Noller joins SUTD as Assistant Professor.</a>
 * July, 2023: <a href="/fuzzing/news/#july-2023">New research program on fuzz testing launched!</a>
 * June, 2023: <a href="#june-2023">New group webpage launched!</a>
