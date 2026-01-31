@@ -18,6 +18,22 @@ permalink: /news/index.html
 
 <br>
 
+<div id='june-2025'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">Abhik Roychoudhury becomes ACM Fellow.</div>
+        <div class="news-time">June, 2025</div>
+        <div class="news-details"><a href = "https://abhikrc.com">Abhik Roychoudhury</a> became ACM Fellow.</div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+        <a href="https://abhikrc.com"><img src="{{ 'images/news/abhik.jpeg' | relative_url }}" width="120" alt="Abhik" /></a>
+        
+    </div>
+</div>
+<br>
+
 <div id='august-2023'/>
 ---
 <br>
