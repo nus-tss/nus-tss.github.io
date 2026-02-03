@@ -19,6 +19,23 @@ permalink: /news/index.html
 
 <br>
 
+<div id='jan-2026'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">Zhiyu Fan joins Microsoft Research Cambridge.</div>
+        <div class="news-time">Jan, 2026</div>
+        <div class="news-details"><a href = "https://zhiyufan.github.io/">Zhiyu Fan</a> became 
+            Senior Researcher in Microsoft Research Cambridge</a>.</div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+        <a href="https://abhikrc.com"><img src="{{ 'images/news/zhiyu.jpg' | relative_url }}" width="120" alt="Zhiyu" /></a>
+        
+    </div>
+</div>
+<br>
+
 <div id='jan-2025'/>
 ---
 <br>
