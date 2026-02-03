@@ -31,7 +31,7 @@ permalink: /news/index.html
             Senior Researcher in Microsoft Research Cambridge</a>.</div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-        <a href="https://abhikrc.com"><img src="{{ 'images/news/zhiyu.jpg' | relative_url }}" width="120" alt="Zhiyu" /></a>
+        <a href="https://abhikrc.com"><img src="{{ 'images/news/zhiyu.jpg' | relative_url }}" width="120" alt="Zhiyu" </a>
         
     </div>
 </div>
