@@ -6,6 +6,7 @@ permalink: /news/index.html
 
 ## News
 
+* Jan 2026: <a href="#jan-2026">PhD alumni Zhiyu joins Microsoft Research Cambridge.</a>
 * Jan 2025: <a href="#jan-2025">Abhik becomes ACM Fellow.</a>
 * August, 2023: <a href="#august-2023">Yannic Noller joins SUTD as Assistant Professor.</a>
 * July, 2023: <a href="/fuzzing/news/#july-2023">New research program on fuzz testing launched!</a>
