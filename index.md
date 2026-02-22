@@ -21,14 +21,15 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 
 ## Current Projects
 
+* <b> <a href="https://ai-4-pr.github.io/">AI for Program Reasoning</a></b>, NRF AI for Science Project (2026-30).
 * <a href = "https://nus-tss.github.io/fuzzing"> Fuzz Testing</a> (2023-27)
 * <a href = "https://nus-apr.github.io">Automated Program Repair</a> (2022-27)
-* <a href ="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> Descartes (Intelligent Decision Making for Smart Cities) </a> (2021 - 2026)
 
 
 
 ## Sample Past Projects
 
+* <a href ="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> Descartes (Intelligent Decision Making for Smart Cities) </a> (2021 - 2026)
 * <a href = "https://www.comp.nus.edu.sg/~tsunami"> TSUNAMi: Trustworthy Systems from Un-trusted Component Amalgamations</a>
 * <a href = "https://www.comp.nus.edu.sg/~nsoe-tss">National Satellite of Excellence in Trustworthy Software Systems</a>
 * <a href ="https://www.comp.nus.edu.sg/~abhik/projects/moe10/project.html"> Analysis and Testing of Evolving Software</a> (really old!)
