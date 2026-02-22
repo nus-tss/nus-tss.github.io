@@ -30,8 +30,8 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 ## Sample Past Projects
 
 * <a href ="https://descartes.cnrsatcreate.cnrs.fr/wp-1-trustworthy-hybrid-ai/"> Descartes (Intelligent Decision Making for Smart Cities) </a> (2021 - 2026)
-* <a href = "https://www.comp.nus.edu.sg/~tsunami"> TSUNAMi: Trustworthy Systems from Un-trusted Component Amalgamations</a>
-* <a href = "https://www.comp.nus.edu.sg/~nsoe-tss">National Satellite of Excellence in Trustworthy Software Systems</a>
+* <a href = "https://www.comp.nus.edu.sg/~tsunami"> TSUNAMi: Trustworthy Systems from Un-trusted Component Amalgamations</a> (2015-20)
+* <a href = "https://www.comp.nus.edu.sg/~nsoe-tss">National Satellite of Excellence in Trustworthy Software Systems</a> (2018-22)
 * <a href ="https://www.comp.nus.edu.sg/~abhik/projects/moe10/project.html"> Analysis and Testing of Evolving Software</a> (really old!)
 
 
