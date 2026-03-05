@@ -6,6 +6,7 @@ permalink: /news/index.html
 
 ## News
 
+* Mar 2026: <a href="https://fouzhe.github.io">Zhengxiong Luo</a> receives Singapore National Research Foundation (NRF) Postdoctoral Award.
 * Jan 2026: <a href="#jan-2026">PhD alumni Zhiyu joins Microsoft Research Cambridge.</a>
 * Jan 2025: <a href="#jan-2025">Abhik becomes ACM Fellow.</a>
 * August, 2023: <a href="#august-2023">Yannic Noller joins SUTD as Assistant Professor.</a>
@@ -18,6 +19,23 @@ permalink: /news/index.html
 * April, 2022: <a href="#april-2022">Professor Abhik Roychoudhury recognised with IEEE New Directions Award</a>
 * January, 2022: <a href="#january-2022">Oracle supports our research on program repair.</a>
 
+<br>
+
+<div id='mar-2026'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">Zhengxiong Luo receives NRF Postdoc Award</div>
+        <div class="news-time">Jan, 2026</div>
+        <div class="news-details"><a href = "https://fouzhe.github.io/">Zhengxiong Luo</a> receives
+            prestigious Singapore NRF Postdoctoral Award</a>.</div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+        <a href="https://abhikrc.com"><img src="{{ 'images/news/zhiyu.jpg' | relative_url }}" width="120" alt="Zhiyu" /></a>
+        
+    </div>
+</div>
 <br>
 
 <div id='jan-2026'/>
