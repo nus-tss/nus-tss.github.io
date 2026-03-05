@@ -27,7 +27,7 @@ permalink: /news/index.html
 <div class="row">
     <div class="col-sm-8">
         <div class="news-title">Zhengxiong Luo receives NRF Postdoc Award</div>
-        <div class="news-time">Jan, 2026</div>
+        <div class="news-time">March, 2026</div>
         <div class="news-details"><a href = "https://fouzhe.github.io/">Zhengxiong Luo</a> receives
             prestigious Singapore NRF Postdoctoral Award.</div>
     </div>
