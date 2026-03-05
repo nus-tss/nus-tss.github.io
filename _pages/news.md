@@ -32,7 +32,7 @@ permalink: /news/index.html
             prestigious Singapore NRF Postdoctoral Award</a>.</div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-        <a href="https://abhikrc.com"><img src="{{ 'images/news/zhiyu.jpg' | relative_url }}" width="120" alt="Zhiyu" /></a>
+        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/zhengxiong.jpg' | relative_url }}" width="120" alt="Zhengxiong" /></a>
         
     </div>
 </div>
