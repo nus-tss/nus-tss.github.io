@@ -21,7 +21,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 
 ## Current Projects
 
-* <b> Agentic AI based Software of the future: from Scale to Trust </b>, NRF Investigator Project (2026-31).
+* <b> <a href="https://spartan-nus.github.io/agentfuture/">Agentic AI based Software of the future: from Scale to Trust</a> </b>, NRF Investigator Project (2026-31).
 * <b> <a href="https://ai-4-pr.github.io/">AI for Program Reasoning</a></b>, NRF AI for Science Project (2026-30).
 * <a href = "https://nus-apr.github.io">Automated Program Repair</a>, MoE Tier3 project (2022-27).
 * <a href = "https://nus-tss.github.io/fuzzing"> Fuzz Testing</a>, CSA project (2023-27).
