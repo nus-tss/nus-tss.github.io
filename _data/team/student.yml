@@ -42,13 +42,13 @@
 
 - name: Zhengyao Liu
   photo: zhengyaoliu.jpg
-  joined: Sep 2025 
+  joined: Aug 2025 
   role: PhD student
 
-- name: Shubham Lohar
-  photo: shubham.png
-  joined: Jan 2026
-  role: PhD student
+  - name: Mehtab Zafar
+  photo: mehtab.jpeg
+  joined: August 2026
+  role: Research Assistant 
 
 - name: Zhiyuan Pan
   photo: zhiyuanpan.png
