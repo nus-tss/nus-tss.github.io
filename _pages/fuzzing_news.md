@@ -27,8 +27,7 @@ download: <i class="fa fa-download"></i>
         </div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-    <img src="{{ 'images/news/ICSE24_17_RE0306.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />         
-    <img src="{{ 'images/news/ICSE24_19_RE1657.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />
+    <img src="{{ 'images/news/Verigrey.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />         
     </div>
 </div>
 <br>
