@@ -6,12 +6,33 @@ permalink: /fuzzing/news/index.html
 pdf: <i class="fa fa-file-pdf-o"></i>
 download: <i class="fa fa-download"></i>
 ---
+* March 2026: Announced <a href="https://medium.com/@abhik.roychoudhury/verigrey-grey-behaviors-in-agents-2611ec72722f"> VeriGrey</a> work for agent security on OpenClaw and other agents. 
 * May, 2024: <a href="#may-2024">Abhik Roychoudhury has co-chaired ICSE 2024 in Lisbon, the premier International Conference on Software Engineering.</a>
 * July, 2023: <a href="#july-2023">New research project funded!</a>
 * April, 2022: <a href="#april-2022">Abhik Roychoudhury honored with IEEE New Directions Award</a>
 
 
 <br>
+<div id='mar-2026'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">VeriGrey work on agent security announced.</div>
+        <div class="news-time">Mar, 2026</div>
+        <div class="news-details">
+        VeriGrey, an agent testing technique is announced via a <a href ="a href="https://medium.com/@abhik.roychoudhury/verigrey-grey-behaviors-in-agents-2611ec72722f">blogpost</a>. It shows mechanisms to unearth weaknesses in popular agents such as coding agents and the OpenClaw personal assistant agent.  
+            <br>
+        <br>
+        </div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+    <img src="{{ 'images/news/ICSE24_17_RE0306.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />         
+    <img src="{{ 'images/news/ICSE24_19_RE1657.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />
+    </div>
+</div>
+<br>
+
 
 <div id='may-2024'/>
 ---
