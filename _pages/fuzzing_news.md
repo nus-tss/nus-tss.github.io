@@ -21,13 +21,13 @@ download: <i class="fa fa-download"></i>
         <div class="news-title">VeriGrey work on agent security announced.</div>
         <div class="news-time">Mar, 2026</div>
         <div class="news-details">
-        VeriGrey, an agent testing technique is announced via a <a href ="a href="https://medium.com/@abhik.roychoudhury/verigrey-grey-behaviors-in-agents-2611ec72722f">blogpost</a>. It shows mechanisms to unearth weaknesses in popular agents such as coding agents and the OpenClaw personal assistant agent.  
+        VeriGrey, an agent testing technique is announced via a <a href ="https://medium.com/@abhik.roychoudhury/verigrey-grey-behaviors-in-agents-2611ec72722f">blogpost</a>. It shows mechanisms to unearth weaknesses in popular agents such as coding agents and the OpenClaw personal assistant agent.  
             <br>
         <br>
         </div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-    <img src="{{ 'images/news/Verigrey.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />         
+    <img src="{{ 'images/news/VeriGrey.JPG' | relative_url }}" width="280" alt="ITS" style="float:right; margin: 0px 15px 15px 15px;" />         
     </div>
 </div>
 <br>
