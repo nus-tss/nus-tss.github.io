@@ -15,9 +15,11 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
     <img src="/images/team/tss.jpg" alt="Group Photo in Aug 2024"/>
     	Photo with students after receiving inaugural NUS Outstanding Graduate Mentor Award in 2024.
   </div>
-  <div class="col-sm">
+</div>
+<div class="row">
+<div class="col-sm">
     <img src="/images/team/P2.jpeg" alt="Recently graduated students in 2026"/>
-    	Dinner Photo with recently graduated students in 2026.
+    	Dinner Photo with recently graduates in 2026.
   </div>
 </div>
 
