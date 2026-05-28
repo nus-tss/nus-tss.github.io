@@ -18,7 +18,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 </div>
 <div class="row">
 <div class="col-sm">
-    <img src="/images/team/P2.jpeg" alt="Recently graduated students in 2026"/>
+    <img src="/images/team/P4.jpeg" alt="Recently graduated students in 2026"/>
     	Dinner Photo with recently graduates in 2026.
   </div>
   <div class="col-sm">
