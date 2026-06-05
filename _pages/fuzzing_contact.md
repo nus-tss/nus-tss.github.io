@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /fuzzing/contact/index.html
 ---
 
-**Administration:** Neo Chee Yong (email: <neocy@nus.edu.sg>)
+**Administration:** Vivien Hao (email: <vivien@nus.edu.sg>)
 
 **Principal Investigator:** [Prof Abhik Roychoudhury](https://www.comp.nus.edu.sg/~abhik/)
 
