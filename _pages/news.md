@@ -6,6 +6,8 @@ permalink: /news/index.html
 
 ## News
 
+* June 2026: <a href="https://mengrj.github.io/">Ruijie Meng</a> receives IMDA Excellence in Computing Prize 2026 for
+  <a href="https://abhikrc.com/Students/Ruijie.pdf">Best PhD Thesis</a>. 
 * May 2026: <a href="https://www.sonarsource.com/company/press-releases/sonar-globally-launches-sonarqube-remediation-agent-at-atxsummit/">SonarQube Remediation Agent</a> which is built from <a href ="https://arxiv.org/abs/2404.05427v1">AutoCodeRover</a> acquisition, made available commercially to enterprises !!
 * Mar 2026: <a href="https://fouzhe.github.io">Zhengxiong Luo</a> receives Singapore National Research Foundation (NRF) Postdoctoral Award.
 * Jan 2026: <a href="#jan-2026">PhD alumni Zhiyu joins Microsoft Research Cambridge.</a>
