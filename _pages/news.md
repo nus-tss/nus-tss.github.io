@@ -6,6 +6,7 @@ permalink: /news/index.html
 
 ## News
 
+* June 2026: NRF AI for Science project <a href="https://ai4pr.github.io/">AI for Program Reasoning</a> launched (2026-30).
 * June 2026: <a href="https://mengrj.github.io/">Ruijie Meng</a> receives IMDA Excellence in Computing Prize 2026 for
   <a href="https://abhikrc.com/Students/Ruijie.pdf">Best PhD Thesis</a>. 
 * May 2026: <a href="https://www.sonarsource.com/company/press-releases/sonar-globally-launches-sonarqube-remediation-agent-at-atxsummit/">SonarQube Remediation Agent</a> which is built from <a href ="https://arxiv.org/abs/2404.05427v1">AutoCodeRover</a> acquisition, made available commercially to enterprises !!
@@ -21,6 +22,28 @@ permalink: /news/index.html
 * August, 2022: <a href="#august-2022">5 year research program on Program Repair starts</a>
 * April, 2022: <a href="#april-2022">Professor Abhik Roychoudhury recognised with IEEE New Directions Award</a>
 * January, 2022: <a href="#january-2022">Oracle supports our research on program repair.</a>
+
+<br>
+<div id='jun-2026'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">NRF AI for Science Project launched</div>
+        <div class="news-time">June, 2026</div>
+        <div class="news-details">
+        NRF AI for Science project <a href = "https://ai4pr.github.io/">AI for Program Reasoning</a> (2026-30) is launched 
+        co-led by <a href="https://www.doc.ic.ac.uk/~cristic/">Cristian Cadar</a> from Imperial College London and 
+        <a href="https://abhikrc.com">Abhik Roychoudhury</a> from NUS. The project will look into building agentic AI
+        techniques for symbolic testing and formal verification of software systems.
+          
+        </div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/AI4S.jpeg' | relative_url }}" width="200" alt="AI4S Project Co-leads" /></a>
+        
+    </div>
+
 
 <br>
 <div id='jun-2026'/>
