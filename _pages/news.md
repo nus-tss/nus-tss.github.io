@@ -39,7 +39,7 @@ permalink: /news/index.html
         </div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/AI4S.jpeg' | relative_url }}" width="200" alt="AI4S Project Co-leads" /></a>
+        <a href="https://abhikrc.com"><img src="{{ 'images/news/AI4S.jpeg' | relative_url }}" width="200" alt="AI4S Project Co-leads" /></a>
         
     </div>
 
