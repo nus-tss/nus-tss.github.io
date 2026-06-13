@@ -54,7 +54,7 @@ permalink: /news/index.html
           .</div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/ruijie.jpg' | relative_url }}" width="120" alt="At the launch" /></a>
+        <a href="https://abhikrc.com"><img src="{{ 'images/news/Sonar2026.jpg' | relative_url }}" width="120" alt="At the launch" /></a>
         
     </div>
 </div>
