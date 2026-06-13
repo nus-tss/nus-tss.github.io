@@ -34,7 +34,7 @@ permalink: /news/index.html
             IMDA Excellence in Computing Prize 2026 for <a href="https://abhikrc.com/Students/Ruijie.pdf">Best PhD Thesis</a>.</div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
-        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/zhengxiong.jpg' | relative_url }}" width="120" alt="Ruijie" /></a>
+        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/ruijie.jpg' | relative_url }}" width="120" alt="Ruijie" /></a>
         
     </div>
 </div>
