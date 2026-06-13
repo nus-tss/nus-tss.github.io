@@ -6,10 +6,9 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 
 <br>
 
-<br>
-<b>Admin Contact:</b> Smitha, smithae@nus.edu.sg
-<br>
 <b> Principal Investigator:</b> <a href="https://abhikrc.com">Abhik Roychoudhury</a>
+<br>
+<b>Admin Manager:</b> Smitha, smithae@nus.edu.sg
 <br>
 <b>Group Coordinator in charge of group meetings:</b>  <a href="https://haifengruan.com/">Haifeng Ruan</a>
 
