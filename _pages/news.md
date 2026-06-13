@@ -50,8 +50,8 @@ permalink: /news/index.html
         <div class="news-details">
           Research on program repair agents, specifically <a href = "https://arxiv.org/pdf/2404.05427v1">AutoCodeRover</a>
           is launched as a commercial product 
-          <a href="https://www.sonarsource.com/company/press-releases/sonar-globally-launches-sonarqube-remediation-agent-at-atxsummit/">SonarQube Remediation Agent</a>. It is launched by Sonar CEO Tariq Shaukat at Singapore. 
-          .</div>
+          <a href="https://www.sonarsource.com/company/press-releases/sonar-globally-launches-sonarqube-remediation-agent-at-atxsummit/">SonarQube Remediation Agent</a>. It is launched by Sonar CEO Tariq Shaukat at Singapore in ATX summit.
+          </div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
         <a href="https://abhikrc.com"><img src="{{ 'images/news/Sonar2026.jpg' | relative_url }}" width="120" alt="At the launch" /></a>
