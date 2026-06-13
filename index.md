@@ -5,7 +5,6 @@ layout: page
 We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National University of Singapore led by Prof. <a href="https://abhikrc.com/">Abhik Roychoudhury</a>. In our research, we strive to enable **secure** and **trustworthy software systems**. In line with this, we focus on **software testing and analysis**, and in particular contribute to the areas of [Automated Program Repair](https://nus-apr.github.io), [Fuzzing](/fuzzing/) and Symbolic Execution.
 
 <br>
-
 <div class="row">
   <div class="col-sm">
     <img src="/images/team/lunch_feb2023.jpg" alt="Group Photo at Lunch in February 2023"/>
