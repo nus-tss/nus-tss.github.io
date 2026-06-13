@@ -23,6 +23,24 @@ permalink: /news/index.html
 * January, 2022: <a href="#january-2022">Oracle supports our research on program repair.</a>
 
 <br>
+<div id='jun-2026'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">Ruijie Meng receives Best PhD Thesis Award</div>
+        <div class="news-time">June, 2026</div>
+        <div class="news-details"><a href = "https://mengrj.github.io/">Ruijie Meng</a> receives
+            IMDA Excellence in Computing Prize 2026 for <a href="https://abhikrc.com/Students/Ruijie.pdf">Best PhD Thesis</a>.</div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/zhengxiong.jpg' | relative_url }}" width="120" alt="Ruijie" /></a>
+        
+    </div>
+</div>
+
+<br>
+
 
 <div id='mar-2026'/>
 ---
