@@ -40,6 +40,26 @@ permalink: /news/index.html
 </div>
 
 <br>
+<div id='may-2026'/>
+---
+<br>
+<div class="row">
+    <div class="col-sm-8">
+        <div class="news-title">AutoCodeRover research becomes a commercial product !</div>
+        <div class="news-time">May, 2026</div>
+        <div class="news-details">
+          Research on program repair agents, specifically <a href = "https://arxiv.org/pdf/2404.05427v1">AutoCodeRover</a>
+          is launched as a commercial product 
+          <a href="https://www.sonarsource.com/company/press-releases/sonar-globally-launches-sonarqube-remediation-agent-at-atxsummit/">SonarQube Remediation Agent</a>. It is launched by Sonar CEO Tariq Shaukat at Singapore. 
+          .</div>
+    </div>
+    <div class="col-sm-4 mx-auto my-auto" align="center">
+        <a href="https://abhikrc.com"><img src="{{ 'images/team/individuals/ruijie.jpg' | relative_url }}" width="120" alt="At the launch" /></a>
+        
+    </div>
+</div>
+
+<br>
 
 
 <div id='mar-2026'/>
@@ -67,7 +87,7 @@ permalink: /news/index.html
         <div class="news-title">Zhiyu Fan joins Microsoft Research Cambridge.</div>
         <div class="news-time">Jan, 2026</div>
         <div class="news-details"><a href = "https://zhiyufan.github.io/">Zhiyu Fan</a> became 
-            Senior Researcher in Microsoft Research Cambridge</a>.</div>
+            Senior Researcher in Microsoft Research Cambridge.</div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
         <a href="https://abhikrc.com"><img src="{{ 'images/news/zhiyu.jpg' | relative_url }}" width="120" alt="Zhiyu" /></a>
