@@ -36,7 +36,6 @@ permalink: /news/index.html
         co-led by <a href="https://www.doc.ic.ac.uk/~cristic/">Cristian Cadar</a> from Imperial College London and 
         <a href="https://abhikrc.com">Abhik Roychoudhury</a> from NUS. The project will look into building agentic AI
         techniques for symbolic testing and formal verification of software systems.
-          
         </div>
     </div>
     <div class="col-sm-4 mx-auto my-auto" align="center">
