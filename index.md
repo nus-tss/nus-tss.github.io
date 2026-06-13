@@ -10,8 +10,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 <br>
 <b>Group Coordinator in charge of group meetings:</b>  <a href="https://haifengruan.com/">Haifeng Ruan</a>
 
-<br><br>
-
+<br>
 
 <br>
 <div class="row">
