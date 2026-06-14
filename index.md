@@ -61,7 +61,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 * June 2026: <a href="https://mengrj.github.io/">Ruijie Meng</a> receives IMDA Excellence in Computing Prize 2026 for
   <a href="https://abhikrc.com/Students/Ruijie.pdf">Best PhD Thesis</a>.
 * May 2026: <a href="https://www.sonarsource.com/company/press-releases/sonar-globally-launches-sonarqube-remediation-agent-at-atxsummit/">SonarQube Remediation Agent</a> which is built from <a href="https://arxiv.org/pdf/2404.05427v1">AutoCodeRover</a> acquisition, made available commercially!
-* Mar 2025: Our PhD alumni <a href="https://www.shinhwei.com/">Shin Hwei Tan</a> is the recipient of prestigious ACM-W Rising Star Award.
+* Mar 2025: Our PhD alumni <a href="https://www.shinhwei.com/">Shin Hwei Tan</a> is the recipient of prestigious <a href="https://women.acm.org/acm-w-rising-star-award-recipient-dr-shin-hwei-tan/">ACM-W Rising Star Award</a>.
 * Feb 2025: SonarSource SA <b><a href ="https://www.sonarsource.com/company/press-releases/sonar-acquires-autocoderover-to-supercharge-developers-with-ai-agents/">acquires AutoCodeRover</a></b>, NUS spinoff on AI for program repair.
 * August, 2024: We thank Oracle for generous gift towards long-term NUS-Oracle research in cybersecurity.
 * April, 2024: <a href = "https://autocoderover.dev">AutoCodeRover</a> our AI software engineer <a href="https://x.com/AbhikRoychoudh1/status/1777494000611852515">catches attention</a>.
