@@ -1,4 +1,13 @@
 
+- name: Dylan Wolff
+  photo: dylan.jpeg
+  graduated: 2026
+  next: Senior Applied Scientist, AWS Boston
+  thesis-title: Horizontal and Vertical Expansion of Fuzzing Techniques
+  thesis-link: https://abhikrc.com/Students/Dylan.pdf
+  website: https://dylanjwolff.com/
+
+
 - name: Ruijie Meng
   photo: ruijie.jpg
   graduated: 2025
@@ -6,6 +15,7 @@
   thesis-title: Reactive System Fuzzing
   thesis-link: https://abhikrc.com/Students/Ruijie.pdf
   website: https://mengrj.github.io/
+
 
 - name: Liu Yu
   photo: liuyu.jpg
