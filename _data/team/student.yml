@@ -6,13 +6,6 @@
   topic: Trusted Automatic Programming - AutoCodeRover
   website: https://yuntongzhang.github.io/
 
-- name: Dylan Wolff
-  photo: dylan.jpeg
-  joined: August 2021
-  role: PhD student
-  topic: Fuzzing of Concurrent Systems Software
-  website: https://dylanjwolff.com/
-
 - name: Haifeng Ruan
   photo: haifeng.jpg
   joined: August 2021
@@ -48,7 +41,12 @@
 - name: Mehtab Zafar
   photo: mehtab.jpeg
   joined: August 2026
-  role: Research Assistant 
+  role: PhD student 
+
+- name: Nurjemal Saryyeva
+  photo: Nurjemal.jpeg
+  joined: August 2026
+  role: PhD student 
 
 - name: Zhiyuan Pan
   photo: zhiyuanpan.png
