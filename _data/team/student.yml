@@ -49,12 +49,6 @@
   role: Visiting PhD student from Zhejiang University
   website: https://pan2013e.github.io/
 
-- name: Jing Liu
-  photo:  jing.jpeg
-  joined: Dec 2025
-  role: Visiting PhD student from Max-Plack Institute
-  website: https://jing6.netlify.app/
-
 - name: Zhuohang Liu 
   photo: zhuohang.jpeg
   joined: Aug 2026
@@ -69,6 +63,11 @@
   photo: zhibo.jpeg
   joined: 2026-2027
   website: https://hezhibo-research.github.io/
+
+ - name: Ruoyu Zhou
+  photo: ruoyu.jpeg
+  joined: 2026-2027
+  website: https://scholar.google.com/citations?user=fY90ZO4AAAAJ&hl=zh-CN
 
 
   
