@@ -17,8 +17,8 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 <br>
 <div class="row">
   <div class="col-sm">
-    <img src="/images/team/lunch_feb2023.jpg" alt="Group Photo at Lunch in February 2023"/>
-    	Lunch in February 2023.
+    <img src="/images/news/WithGuests.JPG" alt="University Awards 2026"/>
+    	With guests at University Awards 2026 after receiving University Research Recognition Award.
   </div>
   <div class="col-sm">
     <img src="/images/team/tss.jpg" alt="Group Photo in Aug 2024"/>
