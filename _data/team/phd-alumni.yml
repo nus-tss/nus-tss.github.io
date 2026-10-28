@@ -1,3 +1,9 @@
+- name: Haifeng Ruan
+  photo: haifeng.jpg
+  graduated: 2026
+  next: Entrepreneur
+  thesis-title: Specifications in Automatic Programming - SpecRover
+  website: https://haifengruan.com/
 
 - name: Dylan Wolff
   photo: dylan.jpeg
@@ -22,7 +28,7 @@
   photo: liuyu.jpg
   graduated: 2025
   next: Asst Prof., Chongqing University
-  topic: Static Analysis guided Program Repair
+  thesis-title: Static Analysis guided Program Repair
   
 
 - name: Zhiyu Fan
