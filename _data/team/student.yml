@@ -12,6 +12,7 @@
   joined: August 2022
   role: PhD student
   topic: From Coding Agents to Production
+  website: https://marti2203.github.io/
   
 - name: Ali El-Husseini
   photo: ali.png
@@ -19,6 +20,7 @@
   role: PhD student, CNRS CREATE
   coadvisor: Blaise Genest, CNRS
   topic: Secure Code Generation from Foundation Models
+  website: https://elhusseiniali.github.io/
 
 - name: Zhao Huan
   photo: zhaohuan.jpeg
@@ -26,6 +28,7 @@
   role: PhD student and RA
   coadvisor: Umang Mathur
   topic: Agentic Test Generation
+  website: https://zhaohuanqdcn.github.io/
   
 - name: Mehtab Zafar
   photo: mehtab.jpeg
