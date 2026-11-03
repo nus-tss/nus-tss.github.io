@@ -40,12 +40,6 @@
   joined: August 2026
   role: PhD student 
 
-- name: Zhiyuan Pan
-  photo: zhiyuanpan.png
-  joined: Sep 2025
-  role: Visiting PhD student from Zhejiang University
-  website: https://pan2013e.github.io/
-
 - name: Zhuohang Liu 
   photo: zhuohang.jpeg
   joined: 2026-27
@@ -66,5 +60,8 @@
   joined: 2026-27
   website: https://scholar.google.com/citations?user=fY90ZO4AAAAJ&hl=zh-CN
 
-
-  
+- name: Zhiyuan Pan
+  photo: zhiyuanpan.png
+  joined: Sep 2025
+  role: Visiting PhD student from Zhejiang University
+  website: https://pan2013e.github.io/
