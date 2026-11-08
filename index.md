@@ -10,7 +10,7 @@ We are the <b>Trustworthy and Secure Software (TSS)</b> group at the National Un
 <br>
 <b>Admin Manager:</b> Smitha, smithae@nus.edu.sg
 <br>
-<b>Group Coordinator in charge of group meetings:</b>  <a href="https://haifengruan.com/">Haifeng Ruan</a>
+<b>Group Coordinator in charge of group meetings:</b>  <a href="https://aryaze.github.io/">Aryaz Eghbali</a>
 
 <br>
 
