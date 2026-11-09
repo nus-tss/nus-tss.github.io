@@ -1,3 +1,8 @@
+- name: Shuyao Jiang
+  photo: shuyao.jpeg
+  role-nus: Research Fellow 
+  website: https://shuyaojiang.github.io/
+
 - name: Abhishek Kr. Singh
   photo: aksingh.png
   role-nus: Senior Research Fellow
@@ -13,11 +18,6 @@
   phd: NUS
   next: Assistant Professor, TU Delft, Netherlands
   website: https://andrecostea.github.io/
-
-- name: Huiyan Wang
-  photo: why.jpg
-  role-nus: Research Assistant Professor
-  website: http://www.why.ink:8080/
 
 - name: Yahui Song
   photo: yahui.jpg
